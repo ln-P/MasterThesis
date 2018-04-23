@@ -1,0 +1,138 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{xcolor}
+
+% Seting up notes
+\usepackage[draft]{todonotes}
+\presetkeys{todonotes}{color=blue!30}{}
+
+% Removing Abstract name
+\renewcommand{\abstractname}{\vspace{-\baselineskip}}
+
+% Paragraphs have no indent, but a line skip instead
+\usepackage[parfill]{parskip}
+
+\title{\vspace{-2.5cm} \textbf{Research Project Notebook}}
+\author{Wiktor Owczarz}
+\begin{document}
+
+\maketitle
+
+\begin{minipage}{0.8\textwidth}
+\begin{abstract}
+   The following document is an outline and notebook concerning a review study that aims to quantify between group differences in competition studies written by two groups of economists: Central Bank  vs. University.
+\end{abstract}
+\end{minipage}
+
+\section{Problem Statement}
+
+\subsection*{Rationale}
+\todo[inline]{Describe the rationale for the review in the context of what is already known. (literature review + Hypothesis)}
+
+\textbf{\textit{Hypothesis:}} Central Bank Researchers face higher \textbf{reputation risk}, compared to university researchers, when publishing banking compatition studies. Economists employed by central banks are placed under \textbf{higher public scrutiny}, hence their publications can have stronger \textbf{signalling effect}.
+
+\todo[inline, color=red!30]{Define reputation/signalling in context of economic theory}
+
+\subsection*{Objective}
+\todo[inline]{What we do and how to do it correctly}
+\textbf{\textit{Goal:}} We aim to quantify if there are significant, measurable differences between banking competition papers published by two groups of researchers. \\
+
+\newline \noindent
+\textbf{Possible \textit{"sources"} of heterogeneity:}
+\begin{enumerate}
+    \item \textbf{Meta Study:} When looking at the same market, using the same \textit{(similar?)} methodology two groups get either contrary or close but \textbf{different} (insignificant, smaller confidence, higher variability) outcomes.
+    \item \textbf{Semantic Analysis:} Looking at the two groups we find significant semantic differences. As a result, we would be able to classify paper to either group based on the words they use.
+        \begin{enumerate}
+            \item First idea: Latent Semantic Analysis to find \textbf{proximity} between different papers.
+             \item If an \textit{algorithm} would be able to easly distinguish between two groups, then
+        \end{enumerate}
+\end{enumerate}
+
+\todo[inline, color=red!30]{Goal is to define \textbf{heterogenity} and to measure it in a robust way}
+
+\newpage
+
+\section{Methodology}
+
+\subsection{Meta-Study:}
+Generally accepted structure required for the meta-study:
+
+\subsubsection{Save study protocol \textit{before} actual study}
+
+The \textit{before} protocol \textbf{has to include}:
+\begin{itemize}
+    \item Problem statement
+    \item Literature search strategy
+
+        \begin{itemize}
+            \item Which databases
+            \item Key words/definition of the search strategy
+            \item Publication restrictions (e.g. language)
+        \end{itemize}
+
+    \item Exclusion/inclusion criteria. Decide which of the collected papers to include/exclude.
+
+        \begin{itemize}
+            \item Clear distinction between central bank and who university economist.
+            \todo[inline]{After the selection process is done create PRISMA Flow diagram to summarise the articles exclusion/inclusion process.}
+        \end{itemize}
+
+\end{itemize}
+
+\subsubsection{Calculate the size effects}
+\textbf{Def.} Effect size is usually a standardised measure of the magnitude of observed effect (Clark-Carter, 2003; Field, 2005c).
+
+\subsubsection{Do the basic meta-analysis}
+Estimate effects in the population by combining
+the effect sizes from a variety of articles. The estimate is a weighted mean of the effect sizes. \\
+
+\todo[inline]{Here ideal outcome would be to find clear \textbf{heterogeneity} in the effect sizes between two groups.}
+
+
+
+\subsection{Language Processing / Semantic Analysis}
+The initial idea is to run Latent Semantic Analysis and by looking at word frequency in each document try to classify papers based on their comparability/similarity between each other.
+
+
+
+\section{Notes:}
+
+\begin{itemize}
+    \item Affiliation based on: https://ideas.repec.org
+\end{itemize}
+
+
+\section{Problems}
+
+\subsection*{The Effect size}
+
+According to Stanley et al. in \textit{“Reporting Guidelines for Meta-Regression Analyses in Economics”}, in order to conduct successful meta-study:
+\begin{itemize}
+    \item A precise definition of how effects are measured (the ‘effect size’), accompanied by any relevant formulas.
+    \item An explicit description about how measured effects are comparable, including any methods used to standardise or convert them to a common metric.
+\end{itemize}
+
+\newline \noindent
+As I already pointed out we face significant difficulty when it comes to the second point. Also we cannot just look at the sign and/or significance since the main purpose of the meta-study is to aggregate multiple papers to average out the bias that might come from single study and therefore find the \textit{"true" outcome}.   \\
+
+\newline \noindent
+However, maybe we could use \textbf{Cohen’s d}: $\frac{\mu_1 - \mu_2}{\sigma}$, where two means would be papers classified to central bank or university and the variance can be a pooled estimate based on both groups individual size and variances (for me it looks very similar to pooled t-static for unequal variances). We would have to do the comparison for individual models separately. \\
+
+\newline \noindent
+Although, just looking at Panzar-Rosse I can see problem since different papers use \textbf{different estimation methods}:
+\begin{enumerate}
+    \item Revenue equation: $log(TR)$ with $log(TA)$ as a control variable
+    \item $log(TR/TA)$  without $log(TA)$ as a control variable
+    \item Price equation: $log(TR/TA)$ with $log(TA)$ as a control variable
+\end{enumerate}
+
+\newpage
+
+\section*{References: (work-in-progress)}
+
+\begin{enumerate}
+    \item Stanley et. al. \textit{Meta-analysis of economics research reporting guidelines}
+    \item A. P. Field, R. Gillett \textit{How to do a meta-analysis}, British Journal of Mathematical and Statistical Psychology
+\end{enumerate}
+\end{document}
