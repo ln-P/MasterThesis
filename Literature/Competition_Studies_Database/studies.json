@@ -1,10 +1,77 @@
 {
-    "title": "A Nonstructural Test for Competition in Financial Markets",
-    "authors":[
-        {"name": "Sherill", "surname": "Shaffer", "affiliation": 1}
-    ],
-    "publication_date": 1982,
-    "period": 1979,
-    "region": ["United States"]
-
+	"p001": {
+		"title": "Assessing Competition with the Panzar-Rosse Model: The Role of Scale, Costs, and Equilibrium",
+		"authors": [{
+				"name": "Jacob Antoon",
+				"surname": "Bikker"
+			},
+			{
+				"name": "Sherrill",
+				"surname": "Shaffer"
+			},
+			{
+				"name": "Laura",
+				"surname": "Spierdijk"
+			}
+		],
+		"publication_date": 2012,
+		"start period": 1994,
+		"end period": 2004,
+		"region": "NULL",
+		"File URL": "http://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00210",
+        "Ideas URL": "https://ideas.repec.org/a/tpr/restat/v94y2012i4p1025-1044.html"
+	},
+    "p002": {
+		"title": "Assessing Banking Sector Competition in Zimbabwe Using a Panzar-Rosse Approach",
+		"authors": [{
+				"name": "Sanderson",
+				"surname": "Abel"
+			},
+			{
+				"name": "Pierre",
+				"surname": " Le Roux"
+			}
+		],
+		"publication_date": 2016,
+		"start period": 2009,
+		"end period": 2014,
+		"region": "Zimbabwe",
+		"File URL": "http://www.econrsa.org/node/1217",
+        "Ideas URL": "https://ideas.repec.org/p/rza/wpaper/599.html"
+	},
+    "p003": {
+		"title": "Conduct in a Banking Monopoly",
+		"authors": [{
+				"name": "Sherrill",
+				"surname": "Shaffer"
+			}],
+		"publication_date": 2002,
+		"start period": 1984,
+		"end period": 1999,
+		"region": "USA",
+		"File URL": "https://link.springer.com/article/10.1023%2FA%3A1015091407841",
+        "Ideas URL": "https://ideas.repec.org/a/kap/revind/v20y2002i3p221-238.html"
+	},
+    "p004": {
+        "title": "Assessing competition in the banking industry: A multi-product approach",
+        "authors": [{
+				"name": "Klenio",
+				"surname": "Barbosa"
+			},
+			{
+				"name": "Bruno",
+				"surname": "de Paula Rocha"
+			},
+            {
+                "name": "Fernando",
+                "surname": "Salazar"
+            }
+		],
+        "publication_date": 2015,
+        "start period": 2001,
+        "end period": 2012,
+        "region": "Brazil",
+        "File URL": "https://link.springer.com/article/10.1023%2FA%3A1015091407841",
+        "Ideas URL": "https://ideas.repec.org/a/eee/jbfina/v50y2015icp340-362.html"
+    }
 }

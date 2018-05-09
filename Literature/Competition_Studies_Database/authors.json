@@ -1,0 +1,92 @@
+{
+	"Jacob_A_Bikker": {
+		"name": "Jacob Anton",
+		"surname": "Bikker",
+		"affiliations": [{
+				"institution": "de Nederlandsche Bank",
+				"share": 0.8,
+				"cental bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+			},
+			{
+				"institution": "School of Economics, Universiteit Utrecht",
+				"share": 0.2,
+				"cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+			}
+		]
+	},
+    "Laura_Spierdijk": {
+        "name": "Sherill",
+		"surname": "Shaffer",
+		"affiliations": [{
+				"institution": "University of Wyoming",
+				"share": 0.9,
+				"cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+			}]
+    },
+	"Sherill_Shaffer": {
+		"name": "Sherill",
+		"surname": "Shaffer",
+		"affiliations": [{
+				"institution": "University of Wyoming",
+				"share": 0.9,
+				"cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+			},
+			{
+				"institution": "Centre for Applied Macroeconomic Analysis, Australian National University",
+				"share": 0.1,
+				"central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+			}
+		]
+
+	},
+    "Sanderson_Abel": {
+        "name": "Sanderson",
+        "surname": "Abel",
+        "affiliations": [{
+                "institution": "Nelson Mandela Metropolitan University",
+                "share": "NULL",
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+
+    },
+    "Pierre_Le_Roux": {
+        "name": "Pierre",
+        "surname": "Le Roux",
+        "affiliations": [{
+                "institution": "University of Wyoming",
+                "share": 0.9,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            },
+            {
+                "institution": "Nelson Mandela Metropolitan University",
+                "share": "NULL",
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }
+        ]
+
+    }
+}
