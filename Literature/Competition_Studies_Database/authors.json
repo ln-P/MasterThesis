@@ -88,5 +88,244 @@
             }
         ]
 
+    },
+    "Klenio_Barbosa": {
+        "name": "Klenio",
+        "surname": "Barbosa",
+        "affiliations": [{
+                "institution": "Insper Instituto de Ensino e Pesquisa",
+                "share": 1,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }
+        ]
+
+    },
+    "Bruno_Paula_Rocha": {
+        "name": "Bruno",
+        "surname": "de Paula Rocha",
+        "affiliations": [{
+                "institution": "Universidade Federal do ABC",
+                "share": 1,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }
+        ]
+
+    },
+    "Fernando_Salazar": {
+        "name": "Fernando",
+        "surname": "Salazar",
+        "affiliations": [{
+                "institution": "Votorantim Bank",
+                "share": 1,
+                "cental bank": 0,
+                "university": 0,
+                "governmental": 0,
+                "private": 1
+            }
+        ]
+
+    },
+    "Alessandro_Giustiniani": {
+        "name": "Alessandro",
+        "surname": "Giustiniani",
+        "affiliations": [{
+                "institution": "International Monetaty Fund",
+                "share": 1,
+                "cental bank": 0,
+                "university": 0,
+                "governmental": 1,
+                "private": 0
+            }
+        ]
+
+    },
+    "Kevin_Ross": {
+        "name": "Kevin",
+        "surname": "Ross",
+        "affiliations": [{
+                "institution": "International Monetaty Fund",
+                "share": 1,
+                "cental bank": 0,
+                "university": 0,
+                "governmental": 1,
+                "private": 0
+            }
+        ]
+    },
+    "Munacinga_Simatele": {
+        "name": "Munacinga",
+        "surname": "Simatele",
+        "affiliations": [{
+                "institution": "Economics Group Business School University of Hertfordshire",
+                "share": 0.5,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            },
+            {
+                "institution": "Wits Business School Faculty of Commerce, Law and Management University of the Witwatersrand",
+                "share": 0.5,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }
+        ]
+    },
+    "Suzana_Andrade": {
+        "name": "Suzana",
+        "surname": "Andrade",
+        "affiliations": [{
+                "institution": "Gabinete de Estratégia e Estudos, Ministério da Economia",
+                "share": 1,
+                "cental bank": 0,
+                "university": 0,
+                "governmental": 1,
+                "private": 0
+            }
+        ]
+    },
+    "Luis_Rozas": {
+        "name": "Luis",
+        "surname": "Gutiérrez de Rozas",
+        "affiliations": [{
+                "institution": "Banco de España",
+                "share": 1,
+                "cental bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+            }
+        ]
+    },
+    "Rakesh_Arrawatia": {
+        "name": "Rakesh",
+        "surname": "Arrawatia",
+        "affiliations": [{
+                "institution": "Institute of Management Technology, Ghaziabad, Uttar Pradesh",
+                "share": 1,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }
+        ]
+    },
+    "Arun_Misra": {
+        "name": "Arun",
+        "surname": "Misra",
+        "affiliations": [{
+                "institution": "Vinod Gupta School of Management, Indian Institute of Technology, Kharagpur",
+                "share": 1,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }
+        ]
+    },
+    "Samuel_Fosu": {
+        "name": "Samuel",
+        "surname": "Fosu",
+        "affiliations": [{
+                "institution": "University Birmingham",
+                "share": 1,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }
+        ]
+    },
+    "Anthony_Rezitis": {
+        "name": "Anthony",
+        "surname": "Rezitis",
+        "affiliations": [{
+                "institution": "Department of Business Administration of Food and Agricultural Enterprises, University of Patras",
+                "share": 1,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }
+        ]
+    },
+    "Nicholas_Apergis": {
+        "name": "Nicholas",
+        "surname": "Apergis",
+        "affiliations": [{
+                "institution": "Department of Banking and Financial Management, University of Piraeu",
+                "share": 1,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }
+        ]
+    },
+    "Irene_Fafaliou": {
+        "name": "Irene",
+        "surname": "Fafaliou",
+        "affiliations": [{
+                "institution": "Department of Economics University of Piraeus",
+                "share": 1,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }
+        ]
+    },
+    "Michael_Polemis": {
+        "name": "Michael",
+        "surname": "Polemis",
+        "affiliations": [{
+                "institution": "Department of Economics, University of Piraeus",
+                "share": 0.9,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            },
+            {
+                "institution": "Hellenic Competition Commission, Government of Greece",
+                "share": 0.1,
+                "cental bank": 0,
+                "university": 0,
+                "governmental": 1,
+                "private": 0
+            }
+        ]
+    },
+    "Jenifer_Daley": {
+        "name": "Jenifer",
+        "surname": "Daley",
+        "affiliations": [{
+                "institution": "University of West Indies",
+                "share": 1,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Kent_Matthews": {
+        "name": "Kent Gerard",
+        "surname": "Matthews",
+        "affiliations": [{
+                "institution": "Cardiff University",
+                "share": 1,
+                "cental bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
     }
 }

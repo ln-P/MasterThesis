@@ -73,5 +73,150 @@
         "region": "Brazil",
         "File URL": "https://link.springer.com/article/10.1023%2FA%3A1015091407841",
         "Ideas URL": "https://ideas.repec.org/a/eee/jbfina/v50y2015icp340-362.html"
-    }
+    },
+    "p005": {
+        "title": "Bank Competition and Efficiency in the FYR Macedonia",
+        "authors": [{
+                "name": "Alessandro",
+                "surname": "Giustiniani"
+            },
+            {
+                "name": "Kevin",
+                "surname": "Ross"
+            },
+        ],
+        "publication_date": 2008,
+        "start period": 1997,
+        "end period": 2005,
+        "region": "Macedonia",
+        "File URL": "http://www.asecu.gr/Seeje/issue11/GIUSTINIANI_ROSS.pdf",
+        "Ideas URL": "https://ideas.repec.org/a/seb/journl/v6y2008i2p145-167.html"
+    },
+    "p006": {
+        "title": "Market Structure and competition in the South African banking sector",
+        "authors": [{
+				"name": "Munacinga",
+				"surname": "Simatele"
+			}
+		],
+        "publication_date": 2015,
+        "start period": 1997,
+        "end period": 2014,
+        "region": "South Africa",
+        "File URL": "http://iises.net/proceedings/4th-economics-finance-conference-london/table-of-content/detail?cid=22&iid=051&rid=4816",
+        "Ideas URL": "https://ideas.repec.org/p/sek/iefpro/2204816.html"
+    },
+    "p007": {
+        "title": "Assessing Competition With the Panzar-Rosse Model: An empirical analysis of European Union banking industry",
+        "authors": [{
+                "name": "Suzana Cristina Silva",
+                "surname": "Andrade"
+            }
+        ],
+        "publication_date": 2017,
+        "start period": 2004,
+        "end period": 2011,
+        "region": "European Union",
+        "File URL": "http://www.gee.gov.pt/RePEc/WorkingPapers/GEE_PAPERS_82.pdf",
+        "Ideas URL": "https://ideas.repec.org/p/mde/wpaper/0082.html"
+    },
+    "p008": {
+        "title": "Testing for competition in the Spanish banking industry: The Panzar-Rosse approach revisited",
+        "authors": [{
+                "name": "Luis",
+                "surname": "Gutiérrez de Rozas"
+            }
+        ],
+        "publication_date": 2007,
+        "start period": 1986,
+        "end period": 2005,
+        "region": "Spain",
+        "File URL": "http://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/07/Fic/dt0726e.pdf",
+        "Ideas URL": "https://ideas.repec.org/p/bde/wpaper/0726.html"
+    },
+    "p009": {
+        "title": "Competition, Concentration and the Relevance of New Banks Entry in the Indian Banking System",
+        "authors": [{
+                "name": "Rakesh",
+                "surname": "Arrawatia"
+            },
+            {
+                "name": "Arun",
+                "surname": "Misra"
+            }
+        ],
+        "publication_date": 2014,
+        "start period": 1994,
+        "end period": 2011,
+        "region": "India",
+        "File URL": "http://gbr.sagepub.com/content/15/2/223.abstract",
+        "Ideas URL": "https://ideas.repec.org/a/sae/globus/v15y2014i2p223-236.html"
+    },
+    "p010": {
+        "title": "Banking competition in Africa: Subregional comparative studies",
+        "authors": [{
+                "name": "Samuel",
+                "surname": "Fosu"
+            }
+        ],
+        "publication_date": 2013,
+        "start period": 2002,
+        "end period": 2009,
+        "region": "Africa",
+        "File URL": "http://www.sciencedirect.com/science/article/pii/S1566014113000125",
+        "Ideas URL": "https://ideas.repec.org/a/eee/ememar/v15y2013icp233-254.html"
+    },
+    "p011": {
+        "title": "Evaluating the state of competition of the Greek banking industry",
+        "authors": [{
+                "name": "Anthony",
+                "surname": "Rezitis"
+            }
+        ],
+        "publication_date": 2010,
+        "start period": 1995,
+        "end period": 2004,
+        "region": "Greece",
+        "File URL": "http://www.sciencedirect.com/science/article/pii/S1042-44310900039-0",
+        "Ideas URL": "https://ideas.repec.org/a/eee/intfin/v20y2010i1p68-90.html"
+    },
+    "p012": {
+        "title": "New evidence on assessing the level of competition in the European Union banking sector: A panel data approach",
+        "authors": [{
+                "name": "Nicholas",
+                "surname": "Apergis"
+            },
+            {
+                "name": "Irene",
+                "surname": "Fafaliou"
+            },
+            {
+                "name": "Michael",
+                "surname": "Polemis"
+            }
+        ],
+        "publication_date": 2016,
+        "start period": 1996,
+        "end period": 2011,
+        "region": "European Union",
+        "File URL": "http://www.sciencedirect.com/science/article/pii/S0969593115300123",
+        "Ideas URL": "https://ideas.repec.org/a/eee/iburev/v25y2016i1p395-407.html"
+    },
+    "p013": {
+        "title": "Out of many, dominance by a few? Market power in the Jamaican banking sector",
+        "authors": [{
+                "name": "Jenifer",
+                "surname": "Daley"
+            },
+            {
+                "name": "Kent Gerard",
+                "surname": "Matthews"
+            }],
+        "publication_date": 2009,
+        "start period": 1998,
+        "end period": 2007,
+        "region": "Jamaica",
+        "File URL": "http://carbsecon.com/wp/E2009_28.pdf",
+        "Ideas URL": "https://ideas.repec.org/p/cdf/wpaper/2009-28.html"
+    },
 }
