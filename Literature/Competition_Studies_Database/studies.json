@@ -14,7 +14,7 @@
 			{
 				"name": "Laura",
 				"surname": "Spierdijk",
-				"intex": "Laura_Spierdijk"
+				"index": "Laura_Spierdijk"
 			}
 		],
 		"publication_date": 2012,
@@ -29,7 +29,7 @@
 		"authors": [{
 				"name": "Sanderson",
 				"surname": "Abel",
-				"intex": "Sanderson_Abel"
+				"index": "Sanderson_Abel"
 			},
 			{
 				"name": "Pierre",
