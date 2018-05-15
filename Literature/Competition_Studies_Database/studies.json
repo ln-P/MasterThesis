@@ -83,7 +83,7 @@
             {
                 "name": "Kevin",
                 "surname": "Ross"
-            },
+            }
         ],
         "publication_date": 2008,
         "start period": 1997,
@@ -218,5 +218,5 @@
         "region": "Jamaica",
         "File URL": "http://carbsecon.com/wp/E2009_28.pdf",
         "Ideas URL": "https://ideas.repec.org/p/cdf/wpaper/2009-28.html"
-    },
+    }
 }
