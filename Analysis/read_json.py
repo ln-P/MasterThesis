@@ -1,3 +1,13 @@
+"""
+Script to read data from json databases and save them as DataFrames
+
+Created on: Tue May 5 23:02:40 CEST 2018
+@author: Wiktor
+
+TO DO:
+- how to deal with studies with multiple authors?
+"""
+
 import pandas as pd
 import json
 from pprint import pprint
@@ -14,6 +24,15 @@ with open(os.path.join(studies_path)) as file:
 with open(os.path.join(authors_path)) as file:
     authors = json.load(file)
 
-for paper in studies:
-    for author in studies[paper]["authors"]:
-        print(paper, author['index'])
+# Load authors and list of their affiliations as DataFrame
+institutions = pd.DataFrame.from_dict(authors, orient='index')['affiliations']
+
+# List of authors that will be mapped to institutions
+# (necessary since there can be more than one institution per author)
+authors_index = institutions.index.values
+
+# Merge all institutions into single list and to each institution append corresponding author (dict)
+auth_aff = [dict(aff, **{'author': author}) for ls_aff, author in zip(institutions, authors_index) for aff in ls_aff]
+
+# Convert authors affiliations to DataFrame
+auth_aff = pd.DataFrame(auth_aff)

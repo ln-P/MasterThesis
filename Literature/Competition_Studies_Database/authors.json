@@ -5,7 +5,7 @@
 		"affiliations": [{
 				"institution": "de Nederlandsche Bank",
 				"share": 0.8,
-				"cental bank": 1,
+				"central bank": 1,
                 "university": 0,
                 "governmental": 0,
                 "private": 0
@@ -13,7 +13,7 @@
 			{
 				"institution": "School of Economics, Universiteit Utrecht",
 				"share": 0.2,
-				"cental bank": 0,
+				"central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -26,7 +26,7 @@
 		"affiliations": [{
 				"institution": "University of Wyoming",
 				"share": 0.9,
-				"cental bank": 0,
+				"central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -38,7 +38,7 @@
 		"affiliations": [{
 				"institution": "University of Wyoming",
 				"share": 0.9,
-				"cental bank": 0,
+				"central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -59,8 +59,8 @@
         "surname": "Abel",
         "affiliations": [{
                 "institution": "Nelson Mandela Metropolitan University",
-                "share": "NULL",
-                "cental bank": 0,
+                "share": 1,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -73,15 +73,15 @@
         "affiliations": [{
                 "institution": "University of Wyoming",
                 "share": 0.9,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
             },
             {
                 "institution": "Nelson Mandela Metropolitan University",
-                "share": "NULL",
-                "cental bank": 0,
+                "share": 0.1,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -95,7 +95,7 @@
         "affiliations": [{
                 "institution": "Insper Instituto de Ensino e Pesquisa",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -109,7 +109,7 @@
         "affiliations": [{
                 "institution": "Universidade Federal do ABC",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -123,7 +123,7 @@
         "affiliations": [{
                 "institution": "Votorantim Bank",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 0,
                 "governmental": 0,
                 "private": 1
@@ -137,7 +137,7 @@
         "affiliations": [{
                 "institution": "International Monetaty Fund",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 0,
                 "governmental": 1,
                 "private": 0
@@ -151,7 +151,7 @@
         "affiliations": [{
                 "institution": "International Monetaty Fund",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 0,
                 "governmental": 1,
                 "private": 0
@@ -164,7 +164,7 @@
         "affiliations": [{
                 "institution": "Economics Group Business School University of Hertfordshire",
                 "share": 0.5,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -172,7 +172,7 @@
             {
                 "institution": "Wits Business School Faculty of Commerce, Law and Management University of the Witwatersrand",
                 "share": 0.5,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -185,7 +185,7 @@
         "affiliations": [{
                 "institution": "Gabinete de Estratégia e Estudos, Ministério da Economia",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 0,
                 "governmental": 1,
                 "private": 0
@@ -196,9 +196,9 @@
         "name": "Luis",
         "surname": "Gutiérrez de Rozas",
         "affiliations": [{
-                "institution": "Banco de España",
+                "institution": "Banco de Espana",
                 "share": 1,
-                "cental bank": 1,
+                "central bank": 1,
                 "university": 0,
                 "governmental": 0,
                 "private": 0
@@ -211,7 +211,7 @@
         "affiliations": [{
                 "institution": "Institute of Management Technology, Ghaziabad, Uttar Pradesh",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -224,7 +224,7 @@
         "affiliations": [{
                 "institution": "Vinod Gupta School of Management, Indian Institute of Technology, Kharagpur",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -237,7 +237,7 @@
         "affiliations": [{
                 "institution": "University Birmingham",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -250,7 +250,7 @@
         "affiliations": [{
                 "institution": "Department of Business Administration of Food and Agricultural Enterprises, University of Patras",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -263,7 +263,7 @@
         "affiliations": [{
                 "institution": "Department of Banking and Financial Management, University of Piraeu",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -276,7 +276,7 @@
         "affiliations": [{
                 "institution": "Department of Economics University of Piraeus",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -289,7 +289,7 @@
         "affiliations": [{
                 "institution": "Department of Economics, University of Piraeus",
                 "share": 0.9,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -297,7 +297,7 @@
             {
                 "institution": "Hellenic Competition Commission, Government of Greece",
                 "share": 0.1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 0,
                 "governmental": 1,
                 "private": 0
@@ -310,7 +310,7 @@
         "affiliations": [{
                 "institution": "University of West Indies",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
@@ -322,7 +322,7 @@
         "affiliations": [{
                 "institution": "Cardiff University",
                 "share": 1,
-                "cental bank": 0,
+                "central bank": 0,
                 "university": 1,
                 "governmental": 0,
                 "private": 0
