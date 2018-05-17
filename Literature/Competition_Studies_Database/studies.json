@@ -241,5 +241,76 @@
         "region": "Jamaica",
         "File URL": "http://carbsecon.com/wp/E2009_28.pdf",
         "Ideas URL": "https://ideas.repec.org/p/cdf/wpaper/2009-28.html"
-    }
+    },
+	"p014": {
+		"title": "Competition in fragmented markets: New evidence from the German banking industry in the light of the subprime crisis",
+		"authors": [{
+			"name": "Nils",
+			"surname": "Moch",
+			"index": "Nils_Moch"
+		}],
+		"publication_date": 2013,
+		"start period": 2001,
+		"end period": 2009,
+		"region": "Germany",
+		"File URL": "http://www.sciencedirect.com/science/article/pii/S0378426613002124",
+		"Ideas URL": "https://ideas.repec.org/a/eee/jbfina/v37y2013i8p2908-2919.html"
+
+	},
+	"p015": {
+		"title": "Empirical assessment of the competitive conduct of Nigerian banks in a post-consolidation era",
+		"authors": [{
+			"name": "Eze Simpson",
+			"surname": "Osuagwu",
+			"index": "Eze_Osuagwu"
+		},
+		{
+			"name": "Ndubisi",
+			"surname": "Nwokoma",
+			"index": "Ndubisi_Nwokoma"
+
+		}],
+		"publication_date": 2017,
+		"start period": 2005,
+		"end period": 2014,
+		"region": "Nigeria",
+		"File URL": "http://www.sciencedirect.com/science/article/pii/S0275531916303026",
+		"Ideas URL": "https://ideas.repec.org/a/eee/riibaf/v41y2017icp412-422.html"
+
+	},
+	"p016": {
+		"title": "The Evolution of Competition of the Tunisian Banking Sector: An Empirical Analysis",
+		"authors": [{
+			"name": "Niazi",
+			"surname": "Kammoun",
+			"index": "Niazi_Kammoun"
+		},
+		{
+			"name": "Ahmed",
+			"surname": "Ammar",
+			"index": "Ahmed_Ammar"
+		}],
+		"publication_date": 2013,
+		"start period": 2000,
+		"end period": 2008,
+		"region": "Tunisian",
+		"File URL": "http://www.efzg.hr/default.aspx?id=17772",
+		"Ideas URL": "https://ideas.repec.org/a/zag/zirebs/v16y2013i1p17-35.html"
+
+	},
+	"p017": {
+		"title": "Consolidation and Competition in the Banking Industries of the EU Member and Candidate Countries",
+		"authors": [{
+			"name": "Adnan",
+			"surname": "Kasman",
+			"index": "Adnan_Kasman"
+		}],
+		"publication_date": 2010,
+		"start period": 1995,
+		"end period": 2007,
+		"region": "European Union",
+		"File URL": "",
+		"Ideas URL": "https://ideas.repec.org/a/mes/emfitr/v46y2010i6p121-139.html"
+
+	}
 }

@@ -327,5 +327,77 @@
                 "governmental": 0,
                 "private": 0
             }]
-    }
+    },
+	"Nils_Moch": {
+		"name": "Nils",
+		"surname": "Moch",
+		"affiliations": [{
+				"institution": "Leuphana University Lueneburg",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Eze_Osuagwu": {
+		"name": "Eze Simpson",
+		"surname": "Osuagwu",
+		"affiliations": [{
+				"institution": "University of Lagos",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Ndubisi_Nwokoma": {
+		"name": "Ndubisi",
+		"surname": "Nwokoma",
+		"affiliations": [{
+				"institution": "University of Lagos",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Niazi_Kammoun": {
+		"name": "Niazi",
+		"surname": "Kammoun",
+		"affiliations": [{
+				"institution": "University of Sfax",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Ahmed_Ammar": {
+		"name": "Ahmed",
+		"surname": "Ammar",
+		"affiliations": [{
+				"institution": "University of Sfax",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Adnan_Kasman": {
+		"name": "Adnan",
+		"surname": "Kasman",
+		"affiliations": [{
+				"institution": "Dokuz Eylul University",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	}
 }
