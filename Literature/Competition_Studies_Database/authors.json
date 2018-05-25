@@ -162,7 +162,7 @@
         "name": "Munacinga",
         "surname": "Simatele",
         "affiliations": [{
-                "institution": "Economics Group Business School University of Hertfordshire",
+                "institution": "University of Hertfordshire",
                 "share": 0.5,
                 "central bank": 0,
                 "university": 1,
@@ -170,7 +170,7 @@
                 "private": 0
             },
             {
-                "institution": "Wits Business School Faculty of Commerce, Law and Management University of the Witwatersrand",
+                "institution": "University of the Witwatersrand",
                 "share": 0.5,
                 "central bank": 0,
                 "university": 1,
@@ -222,7 +222,7 @@
         "name": "Arun",
         "surname": "Misra",
         "affiliations": [{
-                "institution": "Vinod Gupta School of Management, Indian Institute of Technology, Kharagpur",
+                "institution": "Indian Institute of Technology, Kharagpur",
                 "share": 1,
                 "central bank": 0,
                 "university": 1,
@@ -248,7 +248,7 @@
         "name": "Anthony",
         "surname": "Rezitis",
         "affiliations": [{
-                "institution": "Department of Business Administration of Food and Agricultural Enterprises, University of Patras",
+                "institution": "University of Patras",
                 "share": 1,
                 "central bank": 0,
                 "university": 1,
@@ -393,6 +393,110 @@
 		"surname": "Kasman",
 		"affiliations": [{
 				"institution": "Dokuz Eylul University",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Iveta_Paleckova": {
+		"name": "Iveta",
+		"surname": "Paleckova",
+		"affiliations": [{
+				"institution": "Slezska Univerzita",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Daniel_Stavarek": {
+		"name": "Daniel",
+		"surname": "Stavarek",
+		"affiliations": [{
+				"institution": "Slezska Univerzita",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Rima_Turk_Ariss": {
+		"name": "Rima",
+		"surname": "Turk Ariss",
+		"affiliations": [{
+				"institution": "International Monetary Fund",
+				"share": 0.9,
+				"central bank": 0,
+				"university": 0,
+				"governmental": 1,
+				"private": 0
+			},
+			{
+				"institution": "Economic Research Forum",
+				"share": 0.1,
+				"central bank": 0,
+				"university": 0,
+				"governmental": 0,
+				"private": 1
+				}]
+	},
+	"Bashar_Abu_Khalaf": {
+		"name": "Bashar",
+		"surname": "Abu Khalaf",
+		"affiliations": [{
+				"institution": "University of Jordan",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Hadeel_Yaseen": {
+		"name": "Hadeel",
+		"surname": "Yaseen",
+		"affiliations": [{
+				"institution": "University of Jordan",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Ghassan_Omet": {
+		"name": "Ghassan",
+		"surname": "Omet",
+		"affiliations": [{
+				"institution": "University of Jordan",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Omar_Masood": {
+		"name": "Omar",
+		"surname": "Masood",
+		"affiliations": [{
+				"institution": "University of East London",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Bruno_Sergi": {
+		"name": "Bruno",
+		"surname": "Sergi",
+		"affiliations": [{
+				"institution": "University of Messina",
 				"share": 1,
 				"central bank": 0,
 				"university": 1,
