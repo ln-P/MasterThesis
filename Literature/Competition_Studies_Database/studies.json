@@ -20,7 +20,7 @@
 		"publication_date": 2012,
 		"start period": 1994,
 		"end period": 2004,
-		"region": "NULL",
+		"region": ["NULL"],
 		"File URL": "http://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00210",
         "Ideas URL": "https://ideas.repec.org/a/tpr/restat/v94y2012i4p1025-1044.html"
 	},
@@ -40,7 +40,7 @@
 		"publication_date": 2016,
 		"start period": 2009,
 		"end period": 2014,
-		"region": "Zimbabwe",
+		"region": ["Zimbabwe"],
 		"File URL": "http://www.econrsa.org/node/1217",
         "Ideas URL": "https://ideas.repec.org/p/rza/wpaper/599.html"
 	},
@@ -54,7 +54,7 @@
 		"publication_date": 2002,
 		"start period": 1984,
 		"end period": 1999,
-		"region": "USA",
+		"region": ["USA"],
 		"File URL": "https://link.springer.com/article/10.1023%2FA%3A1015091407841",
         "Ideas URL": "https://ideas.repec.org/a/kap/revind/v20y2002i3p221-238.html"
 	},
@@ -79,7 +79,7 @@
         "publication_date": 2015,
         "start period": 2001,
         "end period": 2012,
-        "region": "Brazil",
+        "region": ["Brazil"],
         "File URL": "https://link.springer.com/article/10.1023%2FA%3A1015091407841",
         "Ideas URL": "https://ideas.repec.org/a/eee/jbfina/v50y2015icp340-362.html"
     },
@@ -99,7 +99,7 @@
         "publication_date": 2008,
         "start period": 1997,
         "end period": 2005,
-        "region": "Macedonia",
+        "region": ["Macedonia"],
         "File URL": "http://www.asecu.gr/Seeje/issue11/GIUSTINIANI_ROSS.pdf",
         "Ideas URL": "https://ideas.repec.org/a/seb/journl/v6y2008i2p145-167.html"
     },
@@ -114,7 +114,7 @@
         "publication_date": 2015,
         "start period": 1997,
         "end period": 2014,
-        "region": "South Africa",
+        "region": ["South Africa"],
         "File URL": "http://iises.net/proceedings/4th-economics-finance-conference-london/table-of-content/detail?cid=22&iid=051&rid=4816",
         "Ideas URL": "https://ideas.repec.org/p/sek/iefpro/2204816.html"
     },
@@ -129,7 +129,7 @@
         "publication_date": 2017,
         "start period": 2004,
         "end period": 2011,
-        "region": "European Union",
+        "region": ["European Union"],
         "File URL": "http://www.gee.gov.pt/RePEc/WorkingPapers/GEE_PAPERS_82.pdf",
         "Ideas URL": "https://ideas.repec.org/p/mde/wpaper/0082.html"
     },
@@ -144,7 +144,7 @@
         "publication_date": 2007,
         "start period": 1986,
         "end period": 2005,
-        "region": "Spain",
+        "region": ["Spain"],
         "File URL": "http://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/07/Fic/dt0726e.pdf",
         "Ideas URL": "https://ideas.repec.org/p/bde/wpaper/0726.html"
     },
@@ -164,7 +164,7 @@
         "publication_date": 2014,
         "start period": 1994,
         "end period": 2011,
-        "region": "India",
+        "region": ["India"],
         "File URL": "http://gbr.sagepub.com/content/15/2/223.abstract",
         "Ideas URL": "https://ideas.repec.org/a/sae/globus/v15y2014i2p223-236.html"
     },
@@ -179,7 +179,7 @@
         "publication_date": 2013,
         "start period": 2002,
         "end period": 2009,
-        "region": "Africa",
+        "region": ["Africa"],
         "File URL": "http://www.sciencedirect.com/science/article/pii/S1566014113000125",
         "Ideas URL": "https://ideas.repec.org/a/eee/ememar/v15y2013icp233-254.html"
     },
@@ -194,7 +194,7 @@
         "publication_date": 2010,
         "start period": 1995,
         "end period": 2004,
-        "region": "Greece",
+        "region": ["Greece"],
         "File URL": "http://www.sciencedirect.com/science/article/pii/S1042-44310900039-0",
         "Ideas URL": "https://ideas.repec.org/a/eee/intfin/v20y2010i1p68-90.html"
     },
@@ -219,12 +219,12 @@
         "publication_date": 2016,
         "start period": 1996,
         "end period": 2011,
-        "region": "European Union",
+        "region": ["European Union"],
         "File URL": "http://www.sciencedirect.com/science/article/pii/S0969593115300123",
         "Ideas URL": "https://ideas.repec.org/a/eee/iburev/v25y2016i1p395-407.html"
     },
     "p013": {
-        "title": "Out of many, dominance by a few? Market power in the Jamaican banking sector",
+        "title": "Competitive conditions in the Jamaican banking market 1998–2009",
         "authors": [{
                 "name": "Jenifer",
                 "surname": "Daley",
@@ -235,10 +235,10 @@
                 "surname": "Matthews",
 				"index": "Kent_Matthews"
             }],
-        "publication_date": 2009,
+        "publication_date": 2012,
         "start period": 1998,
-        "end period": 2007,
-        "region": "Jamaica",
+        "end period": 2009,
+        "region": ["Jamaica"],
         "File URL": "http://carbsecon.com/wp/E2009_28.pdf",
         "Ideas URL": "https://ideas.repec.org/p/cdf/wpaper/2009-28.html"
     },
@@ -252,7 +252,7 @@
 		"publication_date": 2013,
 		"start period": 2001,
 		"end period": 2009,
-		"region": "Germany",
+		"region": ["Germany"],
 		"File URL": "http://www.sciencedirect.com/science/article/pii/S0378426613002124",
 		"Ideas URL": "https://ideas.repec.org/a/eee/jbfina/v37y2013i8p2908-2919.html"
 
@@ -273,7 +273,7 @@
 		"publication_date": 2017,
 		"start period": 2005,
 		"end period": 2014,
-		"region": "Nigeria",
+		"region": ["Nigeria"],
 		"File URL": "http://www.sciencedirect.com/science/article/pii/S0275531916303026",
 		"Ideas URL": "https://ideas.repec.org/a/eee/riibaf/v41y2017icp412-422.html"
 
@@ -293,7 +293,7 @@
 		"publication_date": 2013,
 		"start period": 2000,
 		"end period": 2008,
-		"region": "Tunisian",
+		"region": ["Tunisia"],
 		"File URL": "http://www.efzg.hr/default.aspx?id=17772",
 		"Ideas URL": "https://ideas.repec.org/a/zag/zirebs/v16y2013i1p17-35.html"
 
@@ -308,9 +308,92 @@
 		"publication_date": 2010,
 		"start period": 1995,
 		"end period": 2007,
-		"region": "European Union",
+		"region": ["European Union"],
 		"File URL": "",
 		"Ideas URL": "https://ideas.repec.org/a/mes/emfitr/v46y2010i6p121-139.html"
 
+	},
+	"p018": {
+		"title": "Estimation of the competitive conditions in the Czech banking sector",
+		"authors": [{
+			"name": "Daniel",
+			"surname": "Stavarek",
+			"index": "Daniel_Stavarek"
+		},
+		{
+			"name": "Iveta",
+			"surname": "Paleckova",
+			"index": "Iveta_Paleckova"
+		}],
+		"publication_date": 2011,
+		"start period": 2001,
+		"end period": 2009,
+		"region": ["Czech Republic"],
+		"File URL": "https://acta.mendelu.cz/media/pdf/actaun_2011059020299.pdf",
+		"Ideas URL": "https://ideas.repec.org/p/pra/mprapa/30720.html"
+
+	},
+	"p019": {
+		"title": "Competitive conditions in Islamic and conventional banking: A global perspective",
+		"authors": [{
+			"name": "Rima",
+			"surname": "Turk Ariss",
+			"index": "Rima_Turk_Ariss"
+		}],
+		"publication_date": 2010,
+		"start period": 2000,
+		"end period": 2006,
+		"region": ["Bahrain", "Brunei Darussalam", "Iran", "Jordan", "Kuwait",
+				   "Malaysia", "Pakistan", "Qatar", "Saudi Arabia", "Sudan",
+			   	   "Turkey", "United Arab Emirates", "Yemen"],
+		"File URL": "https://www-sciencedirect-com.ezproxy.ub.unimaas.nl/science/article/pii/S1058330010000066?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb",
+		"Ideas URL": "https://ideas.repec.org/a/eee/revfin/v19y2010i3p101-108.html"
+
+	},
+	"p020": {
+		"title": "The Evolution of Bank Competition: Have Conditions Changed in the Jordanian Banking Sector?",
+		"authors": [{
+			"name": "Bashar",
+			"surname": "Abu Khalaf",
+			"index": "Bashar_Abu_Khalaf"
+		},
+		{
+			"name": "Hadeel",
+			"surname": "Yaseen",
+			"index": "Hadeel_Yaseen"
+		},
+		{
+			"name": "Ghassan",
+			"surname": "Omet",
+			"index": "Ghassan_Omet"
+		}],
+		"publication_date": 2015,
+		"start period": 2000,
+		"end period": 2014,
+		"region": ["Jordan"],
+		"File URL": "http://hrmars.com/hrmars_papers/The_Evolution_of_Bank_Competition_Have_Conditions_Changed_in_the_Jordanian_Banking_Sector.pdf",
+		"Ideas URL": "https://ideas.repec.org/a/hur/ijarbs/v5y2015i8p286-296.html"
+
+	},
+	"p021": {
+		"title": "China's Banking System, Market Structure, and Competitive Conditions",
+		"authors": [{
+			"name": "Omar",
+			"surname": "Masood",
+			"index": "Omar_Masood"
+		},
+		{
+			"name": "Bruno",
+			"surname": "Sergi",
+			"index": "Bruno_Sergi"
+		}],
+		"publication_date": 2011,
+		"start period": 2004,
+		"end period": 2007,
+		"region": ["China"],
+		"File URL": "http://journal.hep.com.cn/fec/EN/10.1007/s11459-011-0120-x",
+		"Ideas URL": "https://ideas.repec.org/a/fec/journl/v6y2011i1p22-35.html"
+
 	}
+
 }
