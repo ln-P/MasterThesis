@@ -503,5 +503,65 @@
 				"governmental": 0,
 				"private": 0
 			}]
+	},
+	"Sami_Mensi": {
+		"name": "Sami",
+		"surname": "Mensi",
+		"affiliations": [{
+				"institution": "University of Manouba",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Saibal_Ghosh": {
+		"name": "Saibal",
+		"surname": "Ghosh",
+		"affiliations": [{
+				"institution": "Reserve Bank of India",
+				"share": 1,
+				"central bank": 1,
+				"university": 0,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Ananthakrishnan_Prasad": {
+		"name": "Ananthakrishnan",
+		"surname": "Prasad",
+		"affiliations": [{
+				"institution": "International Monetary Fund",
+				"share": 1,
+				"central bank": 0,
+				"university": 0,
+				"governmental": 1,
+				"private": 0
+			}]
+	},
+	"Muhammad_Hanif": {
+		"name": "Muhammad Nadim",
+		"surname": "Hanif",
+		"affiliations": [{
+				"institution": "State Bank of Pakistan",
+				"share": 1,
+				"central bank": 1,
+				"university": 0,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Mahmood_Khan": {
+		"name": "Mahmood ul Hasan",
+		"surname": "Khan",
+		"affiliations": [{
+				"institution": "State Bank of Pakistan",
+				"share": 1,
+				"central bank": 1,
+				"university": 0,
+				"governmental": 0,
+				"private": 0
+			}]
 	}
 }

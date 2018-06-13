@@ -394,6 +394,82 @@
 		"File URL": "http://journal.hep.com.cn/fec/EN/10.1007/s11459-011-0120-x",
 		"Ideas URL": "https://ideas.repec.org/a/fec/journl/v6y2011i1p22-35.html"
 
+	},
+	"p022": {
+		"title": "Measurement of Competitiveness Degree in Tunisian Deposit Banks: An Application of the Panzar and Rosse Model",
+		"authors": [{
+			"name": "Sami",
+			"surname": "Mensi",
+			"index": "Sami_Mensi"
+		}],
+		"publication_date": 2010,
+		"start period": 1990,
+		"end period": 2007,
+		"region": ["Tunisia"],
+		"File URL": "",
+		"Ideas URL": "https://ideas.repec.org/a/voj/journl/v57y2010i2p189-207.html"
+
+	},
+	"p023": {
+		"title": "Competition in Indian Banking An Empirical Evaluation",
+		"authors": [{
+			"name": "Ananthakrishnan",
+			"surname": "Prasad",
+			"index": "Ananthakrishnan_Prasad"
+		},
+		{
+			"name": "Saibal",
+			"surname": "Ghosh",
+			"index": "Saibal_Ghosh"
+		}],
+		"publication_date": 2007,
+		"start period": 1996,
+		"end period": 2004,
+		"region": ["India"],
+		"File URL": "",
+		"Ideas URL": "https://ideas.repec.org/a/sae/soueco/v8y2007i2p265-284.html"
+
+	},
+	"p024": {
+		"title": "A Formal Test of Competition in the Banking Sector of Pakistan: An Application of PR-H Statistic",
+		"authors": [{
+			"name": "Muhammad Nadim",
+			"surname": "Hanif",
+			"index": "Muhammad_Hanif "
+		},
+		{
+			"name": "Mahmood ul Hasan",
+			"surname": "Khan",
+			"index": "Mahmood_Khan"
+		}],
+		"publication_date": 2017,
+		"start period": 1996,
+		"end period": 2015,
+		"region": ["Pakistan"],
+		"File URL": "",
+		"Ideas URL": "https://ideas.repec.org/p/sbp/wpaper/91.html"
+
+	},
+	"p025": {
+		"title": "How Banking competition Changed over Time",
+		"authors": [{
+				"name": "Jacob Antoon",
+				"surname": "Bikker",
+				"index": "Jacob_A_Bikker"
+			},
+			{
+				"name": "Laura",
+				"surname": "Spierdijk",
+				"index": "Laura_Spierdijk"
+			}
+		],
+		"publication_date": 2008,
+		"start period": 1986,
+		"end period": 2004,
+		"region": ["Western Economies"],
+		"File URL": "",
+		"Ideas URL": "https://ideas.repec.org/p/dnb/dnbwpp/167.html"
+
 	}
 
 }
