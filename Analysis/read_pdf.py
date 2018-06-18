@@ -15,7 +15,7 @@ from pdfminer.pdfpage import PDFPage
 
 class PDF2Text(object):
 
-    def convert_pdf_to_txt(path, password="", maxpages=0):
+    def convert_pdf_to_txt(self, path, password="", maxpages=0):
         rsrcmgr = PDFResourceManager()
         retstr = StringIO()
         codec = 'utf-8'
