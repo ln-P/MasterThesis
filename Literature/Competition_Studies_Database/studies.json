@@ -4,7 +4,7 @@
 		"authors": [{
 				"name": "Jacob Antoon",
 				"surname": "Bikker",
-				"index": "Jacob_A_Bikker"
+				"index": "Jacob_Bikker"
 			},
 			{
 				"name": "Sherrill",
@@ -219,7 +219,7 @@
         "publication_date": 2016,
         "start period": 1996,
         "end period": 2011,
-        "region": ["European Union"],
+        "region": ["EU27"],
         "File URL": "http://www.sciencedirect.com/science/article/pii/S0969593115300123",
         "Ideas URL": "https://ideas.repec.org/a/eee/iburev/v25y2016i1p395-407.html"
     },
@@ -455,7 +455,7 @@
 		"authors": [{
 				"name": "Jacob Antoon",
 				"surname": "Bikker",
-				"index": "Jacob_A_Bikker"
+				"index": "Jacob_Bikker"
 			},
 			{
 				"name": "Laura",
@@ -470,6 +470,1035 @@
 		"File URL": "",
 		"Ideas URL": "https://ideas.repec.org/p/dnb/dnbwpp/167.html"
 
-	}
+	},
+    "p026": {
+        "title": "Competitive conditions in the Central and Eastern European banking systems",
+        "authors": [{
+                "name": "Manthos",
+                "surname": "Delis",
+                "index": "Manthos_Delis "
+            }
+        ],
+        "publication_date": 2010,
+        "start period": 1999,
+        "end period": 2006,
+        "region": ["Albania", "Armenia", "Azerbaijan", "Belarus", "Bosnia", "Bulgaria",
+                   "Croatia", "Czech Republic", "Estonia", "FYROM", "Georgia", "Hungary",
+                   "Kazakhstan", "Latvia", "Lithuania", "Latvia", "Moldova",
+                   "Poland", "Romania", "Serbia", "Slovakia", "Slovenia", "Ukraine"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/a/eee/jomega/v38y2010i5p268-274.html"
 
+    },
+    "p027": {
+        "title": "Competitive Conditions in the Turkish Banking Systems",
+        "authors": [{
+                "name": "Taner",
+                "surname": "Sekmen",
+                "index": "Taner_Sekmen"
+            },
+            {
+                "name": "Ilyas",
+                "surname": "Siklar",
+                "index": "Ilyas_Siklar"
+            },
+            {
+                "name": "Omer",
+                "surname": "Akkus",
+                "index": "Omer_Akkus"
+            }
+        ],
+        "publication_date": 2014,
+        "start period": 2003,
+        "end period": 2012,
+        "region": ["Turkey"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/p/sek/iacpro/0201666.html"
+
+    },
+    "p028": {
+        "title": "The evolution of competition in banking in a transition economy: an application of the Panzar-Rosse model to Armenia",
+        "authors": [{
+                "name": " Armenuhi",
+                "surname": "Mkrtchyan",
+                "index": " Armenuhi_Mkrtchyan"
+            }
+            ],
+        "publication_date": 2005,
+        "start period": 1998,
+        "end period": 2002,
+        "region": ["Armenia"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/a/liu/liucej/v2y2005i1p67-82.html"
+
+    },
+    "p029": {
+        "title": "Efficiency And Competition In Romanian Banking System: Empirical Evidences",
+        "authors": [{
+                "name": "Teodora Cristina",
+                "surname": "Barbu",
+                "index": " Teodora_Barbu"
+            },
+            {
+                "name": "Iustina",
+                "surname": "Boitan",
+                "index": "Iustina_Boitan"
+            },
+            {
+                "name": "Bogdan Andrei",
+                "surname": "Dumitrescu",
+                "index": " Bogdan_Dumitrescu"
+            }
+            ],
+        "publication_date": 2011,
+        "start period": 2003,
+        "end period": 2009,
+        "region": ["Romania"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/a/agr/journl/v5(558)(supplement)y2011i5(558)(supplement)p731-740.htmll"
+
+    },
+    "p030": {
+        "title": "Consolidation and Competition in Emerging Market: An Empirical Test for Malaysian Banking Industrys",
+        "authors": [{
+                "name": "Muhamed Zulkhibri Abdul",
+                "surname": "Majid",
+                "index": " Muhamed_Majid"
+            },
+            {
+                "name": "Fadzlan",
+                "surname": "Sufian",
+                "index": "Fadzlan_Sufian"
+            }
+            ],
+        "publication_date": 2006,
+        "start period": 1998,
+        "end period": 2005,
+        "region": ["Malaysia"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/a/kap/ecopln/v39y2006i1p105-124.html"
+
+    },
+    "p031": {
+        "title": "Competition in the Polish banking market prior to recent crisis for the period 1997–2007 – empirical results obtained with the use of three different models",
+        "authors": [{
+                "name": "Malgorzata",
+                "surname": "Pawlowska",
+                "index": " Malgorzata_Pawlowska"
+            }
+            ],
+        "publication_date": 2011,
+        "start period": 1997,
+        "end period": 2007,
+        "region": ["Poland"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/a/nbp/nbpbik/v42y2011i5p5-40.html"
+
+    },
+    "p032": {
+        "title": "Exploring the Short- and Long-Run Links from Bank Competition to Risk – Reconciling Conflicting Hypotheses?",
+        "authors": [{
+                "name": "Philip",
+                "surname": "Davis",
+                "index": "Philip_Davis"
+            },
+            {
+                "name": "Dilruba",
+                "surname": "Karim",
+                "index": "Dilruba_Karim"
+                }
+            ],
+        "publication_date": 2014,
+        "start period": 1998,
+        "end period": 2012,
+        "region": ["EU27"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/p/nsr/niesrd/421.html"
+
+    },
+    "p033": {
+        "title": "Efficiency and Contestability in the Colombian Banking System",
+        "authors": [{
+                "name": "Christian",
+                "surname": "Daude",
+                "index": "Christian_Daude"
+            },
+            {
+                "name": "Julien",
+                "surname": "Pascal",
+                "index": "Julien_Pascal"
+                }
+            ],
+        "publication_date": 2015,
+        "start period": 2004,
+        "end period": 2013,
+        "region": ["Columbia"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/p/oec/ecoaaa/1203-en.html"
+
+    },
+    "p034": {
+        "title": "Market Structure and Competitive Conditions in the Arab GCC Banking System",
+        "authors": [{
+                "name": "Saeed",
+                "surname": "Al-Muharrami",
+                "index": "Saeed_AlMuharrami"
+            },
+            {
+                "name": "Kent Gerard",
+                "surname": "Matthews",
+                "index": "Kent_Matthews"
+            },
+            {
+                "name": "Yusuf",
+                "surname": "Khabari",
+                "index": " Yusuf_Khabari"
+            }
+            ],
+        "publication_date": 2015,
+        "start period": 1993,
+        "end period": 2002,
+        "region": ["Kuwait", "Saudi Arabia", "United Arab Emirates", "Qatar", "Bahrain", "Oman"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/p/cdf/wpaper/2006-8.html"
+
+    },
+    "p035": {
+        "title": "An empirical analysis of competition in the Indian Banking Sector in dynamic panel framework",
+        "authors": [{
+                "name": "Pankaj",
+                "surname": "Sinha",
+                "index": "Pankaj_Sinha"
+            },
+            {
+                "name": "Sakshi",
+                "surname": "Sharma",
+                "index": "Sakshi_Sharma"
+            },
+            {
+                "name": "Sayan",
+                "surname": "Ghosh",
+                "index": "Sayan_Ghosh"
+            }
+            ],
+        "publication_date": 2015,
+        "start period": 2000,
+        "end period": 2014,
+        "region": ["India"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/p/pra/mprapa/68556.html"
+
+    },
+    "p036": {
+        "title": "Competition, concentration and foreign capital in the Polish banking sector (prior and during the financial crisis)",
+        "authors": [{
+                "name": "Malgorzata",
+                "surname": "Pawlowska",
+                "index": " Malgorzata_Pawlowska"
+            }
+            ],
+        "publication_date": 2012,
+        "start period": 1997,
+        "end period": 2009,
+        "region": ["Poland"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/p/nbp/nbpmis/130.html"
+
+    },
+    "p037": {
+        "title": "Competition, Concentration, Efficiency, and their Relationship in the Polish Banking Sector",
+        "authors": [{
+                "name": "Malgorzata",
+                "surname": "Pawlowska",
+                "index": " Malgorzata_Pawlowska"
+            }
+            ],
+        "publication_date": 2005,
+        "start period": 1997,
+        "end period": 2002,
+        "region": ["Poland"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/p/nbp/nbpmis/32.html"
+
+    },
+    "p038": {
+        "title": "Competition in the banking sector: New evidence from a panel of emerging market economies and the financial crisis",
+        "authors": [{
+                "name": "Nicholas",
+                "surname": "Apergis",
+                "index": " Nicholas_Apergis"
+            }
+            ],
+        "publication_date": 2015,
+        "start period": 2000,
+        "end period": 2012,
+        "region": ["Bangladesh", "Brazil", "Bulgaria", "Chile", "Equador", "Hong Kong", "India", "Indonesia", "Korea", "Malaysia", "Pakistan", "Panama",
+"Philippines", "Russia", "Singapore", "Sri Lanka", "Taiwan", "Thailand", "Turkey", "Ukraine", "Venezuela"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/a/eee/ememar/v25y2015icp154-162.html"
+
+    },
+    "p039": {
+        "title": "Does higher bank concentration reduce the level of competition in the banking industry? Further evidence from South East Asian economies",
+        "authors": [{
+                "name": "Habib Hussain",
+                "surname": "Khan",
+                "index": " Habib_Khan"
+            },
+            {
+                "name": "Ali",
+                "surname": "Kutan",
+                "index": " Ali_Kutan"
+        },
+            {
+                "name": "Ahmad",
+                "surname": "Rubi Binti",
+                "index": "Ahmad_Binti"
+            },
+            {
+                "name": "Chan",
+                "surname": "Sok-Gee",
+                "index": "Chan_SokGee"
+            }
+            ],
+        "publication_date": 2017,
+        "start period": 1995,
+        "end period": 2014,
+        "region": ["Indonesia", "Singapore", "Philippines", "Malaysia", "Thailand"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/a/eee/reveco/v52y2017icp91-106.html"
+
+    },
+    "p040": {
+        "title": "Bank Competition in Sub-Saharan African Countries: Has Anything Changed in the Light of 2007-2008 Global FinancialCrisis?",
+        "authors": [{
+                "name": "Steve",
+                "surname": "Motsi",
+                "index": " Steve_Motsi"
+            },
+            {
+                "name": "Oluseye Samuel",
+                "surname": "Ajuwon",
+                "index": " Oluseye_Ajuwon"
+        },
+            {
+                "name": "Collins",
+                "surname": "Ntim",
+                "index": "Collins_Ntim"
+            }
+            ],
+        "publication_date": 2018,
+        "start period": 2008,
+        "end period": 2013,
+        "region": ["Ghana", "Kenya", "Mauritius", "South Africa", "Nigeria", "Uganda"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/a/spd/journl/v68y2018i1p59-83.html"
+
+    },
+    "p041": {
+        "title": "Research Of Competition In Deposit Market Of Ukraine Based On The Panzar-Rosse Model",
+        "authors": [{
+                "name": "Iryna",
+                "surname": "Didenko",
+                "index": "Iryna_Didenko"
+            },
+            {
+                "name": "Serhii",
+                "surname": "Bohma",
+                "index": "Serhii_Bohma"
+            }
+            ],
+        "publication_date": 2016,
+        "start period": 2005,
+        "end period": 2015,
+        "region": ["Ukraine"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/a/bal/journl/2256-07422016227.html"
+
+    },
+    "p042": {
+        "title": "Banking Competition and Efficiency: Empirical Analysis on the Bosnia and Herzegovina Using Panzar-Rosse Model",
+        "authors": [{
+                "name": "Memic",
+                "surname": "Deni",
+                "index": "Memic_Deni"
+            }
+            ],
+        "publication_date": 2015,
+        "start period": 2008,
+        "end period": 2012,
+        "region": ["Bosnia and Herzegovina"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/a/bit/bsrysr/v6y2015i1p72-92.html"
+
+    },
+    "p043": {
+        "title": "How Competitive and Stable is the Commercial Banking Industry in China after Bank Reforms?",
+        "authors": [{
+                "name": "Kang",
+                "surname": "Park",
+                "index": "Kang_Park"
+            }
+            ],
+        "publication_date": 2016,
+        "start period": 1992,
+        "end period": 2008,
+        "region": ["China"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/a/kdi/journl/v38y2016i1p53-70.html"
+
+    },
+    "p044": {
+        "title": "State Aid and Competition in Banking: the Case of China in the Late Nineties",
+        "authors": [{
+                "name": "Xiaoqiang",
+                "surname": "Cheng",
+                "index": "Xiaoqiang_Cheng"
+            },
+            {
+                "name": "Patrick",
+                "surname": "Cayseele",
+                "index": "Patrick_Cayseele"
+            }
+            ],
+        "publication_date": 2009,
+        "start period": 1996,
+        "end period": 2003,
+        "region": ["China"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/p/lic/licosd/25009.html"
+
+    },
+    "p045": {
+        "title": "Concentration and Competition in the Banking Sector of Turkey",
+        "authors": [{
+                "name": "Iveta",
+                "surname": "Repkova",
+                "index": "Iveta_Repkova"
+            },
+            {
+                "name": "Daniel",
+                "surname": "Stavarek",
+                "index": "Daniel_Stavarek"
+            }
+            ],
+        "publication_date": 2014,
+        "start period": 2002,
+        "end period": 2010,
+        "region": ["Turkey"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/a/aes/amfeco/v36y2014i16p625.html"
+
+    },
+    "p046": {
+        "title": "Effect of Liberalization on Banking Competition",
+        "authors": [{
+                "name": "Gloria",
+                "surname": "Pasadilla",
+                "index": "Gloria_Pasadilla"
+            },
+            {
+                "name": "Melnie",
+                "surname": "Milo",
+                "index": "Melanie_Milo"
+            }
+            ],
+        "publication_date": 2005,
+        "start period": 1990,
+        "end period": 2002,
+        "region": ["Philippines"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/p/phd/dpaper/dp_2005-03.html"
+
+    },
+    "p047": {
+        "title": "Testing for competition in the South African banking sector",
+        "authors": [{
+                "name": "Witness",
+                "surname": "Simbanegavi",
+                "index": "Witness_Simbanegavi"
+            },
+            {
+                "name": "Tendai",
+                "surname": "Gwatidzo",
+                "index": "Tendai_Gwatidzo"
+            },
+            {
+                "name": "Josh",
+                "surname": "Greenberg",
+                "index": "Josh_Greenberg"
+            }
+            ],
+        "publication_date": 2005,
+        "start period": 1998,
+        "end period": 2008,
+        "region": ["South Africa"],
+        "File URL": "",
+        "Ideas URL": "https://ideas.repec.org/p/pra/mprapa/43627.html"
+    },
+    "p048": {
+        "title": "Competition and Contestability in Canada's Financial System: Empirical Results",
+        "authors": [{
+                "name": "Alli",
+                "surname": "Nathan",
+                "index": "Alli_Nathan"
+            },
+            {
+                "name": "Edwin",
+                "surname": "Neave",
+                "index": "Edwin_Neave"
+            }
+            ],
+        "publication_date": 1989,
+        "start period": 1984,
+        "end period": 1982,
+        "region": ["Canada"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p049": {
+        "title": "Market structure and performance in Spanish banking",
+        "authors": [{
+                "name": "Lloyd",
+                "surname": "Williams",
+                "index": "Lloyd_Williams"
+            },
+            {
+                "name": "Phil",
+                "surname": "Molyneux",
+                "index": "Phil_Molyneux"
+            },
+            {
+                "name": "John",
+                "surname": "Thornton",
+                "index": "John_Thornton"
+            }
+            ],
+        "publication_date": 1994,
+        "start period": 1986,
+        "end period": 1989,
+        "region": ["Spain"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p050": {
+        "title": "Testing for Competition in Banking: Behavioural Evidence from Finland",
+        "authors": [{
+                "name": "Jukka",
+                "surname": "Vesala",
+                "index": "Jukka_Vesala"
+            }
+            ],
+        "publication_date": 1995,
+        "start period": 1985,
+        "end period": 1992,
+        "region": ["Finland"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p051": {
+        "title": "Competition and Market Contestability in Japanese Commercial Banking",
+        "authors": [{
+                "name": "Lloyd",
+                "surname": "Williams",
+                "index": "Lloyd_Williams"
+            },
+            {
+                "name": "Phil",
+                "surname": "Molyneux",
+                "index": "Phil_Molyneux"
+            },
+            {
+                "name": "John",
+                "surname": "Thornton",
+                "index": "John_Thornton"
+            }
+            ],
+        "publication_date": 1996,
+        "start period": 1986,
+        "end period": 1988,
+        "region": ["Japan"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p052": {
+        "title": "Assessing competitive conditions in the Greek banking system",
+        "authors": [{
+                "name": "George",
+                "surname": "Hondroyiannis",
+                "index": "George_Hondroyiannis"
+            },
+            {
+                "name": "Sarantis",
+                "surname": "Lolos",
+                "index": "Sarantis_Lolos"
+            },
+            {
+                "name": "Evangelia",
+                "surname": "Papapetrou",
+                "index": "Evangelia_Papapetrou"
+            }
+            ],
+        "publication_date": 1999,
+        "start period": 1993,
+        "end period": 1995,
+        "region": ["Greece"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p053": {
+        "title": "Competition and concentration in the EU banking industry",
+        "authors": [{
+                "name": "Jacob Antoon",
+                "surname": "Bikker",
+                "index": "Jacob_Bikker"
+            },
+            {
+                "name": "Hans",
+                "surname": "Groeneveld",
+                "index": "Hans_Groeneveld"
+            }
+            ],
+        "publication_date": 2000,
+        "start period": 1989,
+        "end period": 1996,
+        "region": ["EU15"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p054": {
+        "title": "Competition, contestability and market structure in European banking sectors on the eve of EMU",
+        "authors": [{
+                "name": "Olivier",
+                "surname": "De Bandt",
+                "index": "Olivier_Bandt"
+            },
+            {
+                "name": "Philip",
+                "surname": "Davis",
+                "index": "Philip_Davis"
+            }
+            ],
+        "publication_date": 2000,
+        "start period": 1992,
+        "end period": 1996,
+        "region": ["France", "Italy", "Germany"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p055": {
+        "title": "Consolidation and market structure in emerging market banking systems",
+        "authors": [{
+                "name": "Gaston",
+                "surname": "Gelos",
+                "index": "Gaston_Gelos"
+            },
+            {
+                "name": "Jorge",
+                "surname": "Roldos",
+                "index": "Jorge_Roldos"
+            }
+            ],
+        "publication_date": 2004,
+        "start period": 1994,
+        "end period": 1999,
+        "region": ["Europe and South America"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p056": {
+        "title": "Competition, concentration and their relationship: An empirical analysis of the banking industry",
+        "authors": [{
+                "name": "Jacob Antoon",
+                "surname": "Bikker",
+                "index": "Jacob_Bikker"
+            },
+            {
+                "name": "Katharina",
+                "surname": "Haaf",
+                "index": "Katharina_Haaf"
+            }
+            ],
+        "publication_date": 2002,
+        "start period": 1988,
+        "end period": 1998,
+        "region": ["OECD"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p057": {
+        "title": "Banking competition and macroeconomic conditions: a disaggregate analysis",
+        "authors": [{
+                "name": "Paolo",
+                "surname": "Coccorese",
+                "index": "Paolo_Coccorese"
+            }
+            ],
+        "publication_date": 2004,
+        "start period": 1997,
+        "end period": 1999,
+        "region": ["Italy"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p058": {
+        "title": "The competitive nature of the Arab Middle Eastern banking markets",
+        "authors": [{
+                "name": "Waleed",
+                "surname": "Murjan",
+                "index": "Waleed_Murjan"
+            },
+            {
+                "name": "Cristina",
+                "surname": "Ruza",
+                "index": "Cristina_Ruza"
+            }
+            ],
+        "publication_date": 2002,
+        "start period": 1993,
+        "end period": 1997,
+        "region": ["Arab Middle East"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p059": {
+        "title": "What Drives Bank Competition? Some International Evidence",
+        "authors": [{
+                "name": "Stijn",
+                "surname": "Claessens",
+                "index": "Stijn_Claessens"
+            },
+            {
+                "name": "Luc",
+                "surname": "Laeven",
+                "index": "Luc_Laeven"
+            }
+            ],
+        "publication_date": 2004,
+        "start period": 1994,
+        "end period": 2001,
+        "region": ["50 countries"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p060": {
+        "title": "What Drives Bank Competition? Some International Evidence",
+        "authors": [{
+                "name": "Sherrill",
+                "surname": "Shaffer",
+                "index": "Sherill_Shaffer"
+                }
+            ],
+        "publication_date": 2004,
+        "start period": 1984,
+        "end period": 1994,
+        "region": ["USA"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p061": {
+        "title": "Competition and concentration in the banking sector of the South Eastern European region",
+        "authors": [{
+                "name": "Emmanuel",
+                "surname": "Mamatzakis",
+                "index": "Emmanuel_Mamatzakis"
+            },
+            {
+                "name": "N",
+                "surname": "Koutsomanoli-Fillipaki",
+                "index": "N_Fillipaki"
+            },
+            {
+                "name": "Christos",
+                "surname": "Staikouras",
+                "index": "Christos_Staikouras"
+            }
+            ],
+        "publication_date": 2005,
+        "start period": 1998,
+        "end period": 2002,
+        "region": ["Southeastern Europe"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p062": {
+        "title": "Competition and Contestability in Transition Banking: An Empirical Analysis",
+        "authors": [{
+                "name": "Konstantinos",
+                "surname": "Drakos",
+                "index": "Konstantinos_Drakos"
+            },
+            {
+                "name": "Panagiotis",
+                "surname": "Konstantinou",
+                "index": "Panagiotis_Konstantinou"
+            }
+            ],
+        "publication_date": 2005,
+        "start period": 1992,
+        "end period": 2000,
+        "region": ["Former Soviet Union"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p063": {
+        "title": "Bank Competition, Concentration and Efficiency in the Single European Market",
+        "authors": [{
+                "name": "Barbara",
+                "surname": "Casu",
+                "index": "Barbara_Casu"
+            },
+            {
+                "name": "Claudia",
+                "surname": "Girardone",
+                "index": "Claudia_Girardone"
+            }
+            ],
+        "publication_date": 2006,
+        "start period": 1997,
+        "end period": 2003,
+        "region": ["EU15"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p064": {
+        "title": "Competition in the Turkish banking industry",
+        "authors": [{
+                "name": "Burak",
+                "surname": "Gunalp",
+                "index": "Burak_Gunalp"
+            },
+            {
+                "name": "Tuncay",
+                "surname": "Celik",
+                "index": "Tuncay_Celik"
+            }
+            ],
+        "publication_date": 2006,
+        "start period": 1990,
+        "end period": 2000,
+        "region": ["Turkey"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p065": {
+        "title": "Competition and Concentration in the New European Banking Landscape",
+        "authors": [{
+                "name": "Christos",
+                "surname": "Staikouras",
+                "index": "Christos_Staikouras"
+            },
+            {
+                "name": "Anastasia",
+                "surname": "Koutsomanoli-Fillipaki",
+                "index": "Anastasia_Fillipaki"
+            }
+            ],
+        "publication_date": 2006,
+        "start period": 1998,
+        "end period": 2002,
+        "region": ["EU15", "EU10"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p066": {
+        "title": "Competitive conditions among the major British banks",
+        "authors": [{
+                "name": "Kent Gerard",
+                "surname": "Matthews",
+                "index": "Kent_Matthews"
+            },
+            {
+                "name": "Victor",
+                "surname": "Murinde",
+                "index": "Victor_Murinde"
+            },
+            {
+                "name": "Tianshu",
+                "surname": "Zhao",
+                "index": "Tianshu_Zhao"
+            }
+            ],
+        "publication_date": 2006,
+        "start period": 1980,
+        "end period": 2004,
+        "region": ["United Kingdom"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p067": {
+        "title": "Restructuring, consolidation and competition in Latin American banking markets",
+        "authors": [{
+                "name": "Semih",
+                "surname": "Yildirim",
+                "index": "Semih_Yildirim"
+            },
+            {
+                "name": "George",
+                "surname": "Philippatos",
+                "index": "George_Philippatos"
+            }
+            ],
+        "publication_date": 2007,
+        "start period": 1993,
+        "end period": 2000,
+        "region": ["Latin America"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p068": {
+        "title": "On the measurement of market power in the banking industry",
+        "authors": [{
+                "name": "Manthos",
+                "surname": "Delis",
+                "index": "Manthos_Delis "
+            },
+            {
+                "name": "Christos",
+                "surname": "Staikouras",
+                "index": "Christos_Staikouras"
+            },
+            {
+                "name": "Panagiotis",
+                "surname": "Varlagas",
+                "index": "Panagiotis_Varlagas"
+            }
+            ],
+        "publication_date": 2008,
+        "start period": 1993,
+        "end period": 2004,
+        "region": ["Greece", "Spain", "Latvia"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p069": {
+        "title": "Market Competition before and after Bank Merger Wave: A Comparative Study of Korea and Japan",
+        "authors": [{
+                "name": "Min Hwan",
+                "surname": "Lee",
+                "index": "Min_Lee "
+            },
+            {
+                "name": "Mamoru",
+                "surname": "Nagano",
+                "index": "Mamoru_Nagano"
+            }
+            ],
+        "publication_date": 2008,
+        "start period": 1993,
+        "end period": 2005,
+        "region": ["Korea"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p070": {
+        "title": "Competition Tests with a Non-Structural Model:The Panzar-Rosse Method Applied to Germany’s Savings Banks",
+        "authors": [{
+                "name": "Horst",
+                "surname": "Gischer",
+                "index": "Horst_Gischer "
+            },
+            {
+                "name": "Mike",
+                "surname": "Stiele",
+                "index": "Mike_Stiele"
+            }
+            ],
+        "publication_date": 2009,
+        "start period": 1993,
+        "end period": 2002,
+        "region": ["Germany"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p071": {
+        "title": "Competition in banking: A disequilibrium approach",
+        "authors": [{
+                "name": "John",
+                "surname": "Goddard",
+                "index": "John_Goddard "
+            },
+            {
+                "name": "John",
+                "surname": "Wilson",
+                "index": " John_Wilson"
+            }
+            ],
+        "publication_date": 2009,
+        "start period": 2001,
+        "end period": 2007,
+        "region": ["Canada", "Germany", "France", "Italy", "Japan", "United Kingdom", "USA"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p072": {
+        "title": "Are Competitive Banking Systems More Stable?",
+        "authors": [{
+                "name": "Klaus",
+                "surname": "Schaeck",
+                "index": "Klaus_Schaeck "
+            },
+            {
+                "name": "Martin",
+                "surname": "Cihak",
+                "index": " Martin_Cihak"
+            },
+            {
+                "name": "Simon",
+                "surname": "Wolfe",
+                "index": "Simon_Wolfe"
+            }
+            ],
+        "publication_date": 2009,
+        "start period": 1980,
+        "end period": 2005,
+        "region": ["45 Countries"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p073": {
+        "title": "Market power in local banking monopolies",
+        "authors": [{
+                "name": "Paolo",
+                "surname": "Coccorese",
+                "index": "Paolo_Coccorese"
+            }
+            ],
+        "publication_date": 2009,
+        "start period": 1988,
+        "end period": 2005,
+        "region": ["Italy"],
+        "File URL": "",
+        "Ideas URL": ""
+    },
+    "p074": {
+        "title": "Cross-country comparisons of competition and pricing power in European banking",
+        "authors": [{
+                "name": "Santiago",
+                "surname": "Carbo",
+                "index": "Santiago_Carbo"
+            },
+            {
+                "name": "David",
+                "surname": "Humphrey",
+                "index": "David_Humphrey"
+            },
+            {
+                "name": "Joaquin",
+                "surname": "Maudos",
+                "index": "Joaquin_Maudos"
+            },
+            {
+                "name": "Phil",
+                "surname": "Molyneux",
+                "index": "Phil_Molyneux"
+            }
+            ],
+        "publication_date": 2009,
+        "start period": 1991,
+        "end period": 2005,
+        "region": ["EU14"],
+        "File URL": "",
+        "Ideas URL": ""
+    }
 }

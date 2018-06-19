@@ -1,5 +1,5 @@
 {
-	"Jacob_A_Bikker": {
+	"Jacob_Bikker": {
 		"name": "Jacob Anton",
 		"surname": "Bikker",
 		"affiliations": [{
@@ -412,18 +412,6 @@
 				"private": 0
 			}]
 	},
-	"Daniel_Stavarek": {
-		"name": "Daniel",
-		"surname": "Stavarek",
-		"affiliations": [{
-				"institution": "Slezska Univerzita",
-				"share": 1,
-				"central bank": 0,
-				"university": 1,
-				"governmental": 0,
-				"private": 0
-			}]
-	},
 	"Rima_Turk_Ariss": {
 		"name": "Rima",
 		"surname": "Turk Ariss",
@@ -563,5 +551,1110 @@
 				"governmental": 0,
 				"private": 0
 			}]
-	}
+	},
+	"Manthos_Delis": {
+		"name": "Manthos",
+		"surname": "Delis",
+		"affiliations": [{
+				"institution": " Montpellier Business School",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Taner_Sekmen": {
+        "name": "Taner",
+        "surname": "Sekmen",
+		"affiliations": [{
+				"institution": "Eskisehri Omangazi University",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Ilyas_Siklar": {
+        "name": "Ilyas",
+        "surname": "Siklar",
+		"affiliations": [{
+				"institution": "Anadolu University",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Omer_Akkus": {
+        "name": "Omer",
+        "surname": "Akkus",
+		"affiliations": [{
+				"institution": "Anadolu University",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Armenuhi_Mkrtchyan": {
+        "name": " Armenuhi",
+        "surname": "Mkrtchyan",
+		"affiliations": [{
+				"institution": "Central Bank of Armenia",
+				"share": 1,
+				"central bank": 1,
+				"university": 0,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Teodora_Barbu": {
+        "name": "Teodora Cristina",
+        "surname": "Barbu",
+		"affiliations": [{
+				"institution": "Bucharest School of Economics",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Iustina_Boitan": {
+        "name": "Iustina",
+        "surname": "Boitan",
+		"affiliations": [{
+				"institution": "Bucharest School of Economics",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Bogdan_Dumitrescu": {
+        "name": "Bogdan Andrei",
+        "surname": "Dumitrescu",
+		"affiliations": [{
+				"institution": "Bucharest School of Economics",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+	"Muhamed_Majid": {
+        "name": "Muhamed Zulkhibri Abdul",
+        "surname": "Majid",
+		"affiliations": [{
+				"institution": "Bank Negara Malaysia",
+				"share": 0.5,
+				"central bank": 1,
+				"university": 0,
+				"governmental": 0,
+				"private": 0
+			},
+            {
+				"institution": "Islamic Development Bank",
+				"share": 0.5,
+				"central bank": 0,
+				"university": 0,
+				"governmental": 0,
+				"private": 1
+    		}]
+	},
+	"Fadzlan_Sufian": {
+        "name": "Fadzlan",
+        "surname": "Sufian",
+		"affiliations": [{
+				"institution": "International Islamic University Malaysia",
+				"share": 1,
+				"central bank": 0,
+				"university": 1,
+				"governmental": 0,
+				"private": 0
+			}]
+	},
+    "Malgorzata_Pawlowska": {
+        "name": "Malgorzata",
+        "surname": "Pawlowska",
+        "affiliations": [{
+                "institution": "Szkola Glowna Handlowa",
+                "share": 0.5,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            },
+            {
+                "institution": "Polish Central Bank",
+                "share": 0.5,
+                "central bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Philip_Davis": {
+        "name": "Philip",
+        "surname": "Davis",
+        "affiliations": [{
+                "institution": "Brunel University",
+                "share": 0.5,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            },
+            {
+                "institution": "Bank of England",
+                "share": 0.5,
+                "central bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Dilruba_Karim": {
+        "name": "Karim",
+        "surname": "Dilruba",
+        "affiliations": [{
+                "institution": "Brunel University",
+                "share": 0.5,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            },
+            {
+                "institution": "National Institute of Economic and Social Research",
+                "share": 0.5,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 0,
+                "private": 1
+            }]
+    },
+    "Julien_Pascal": {
+        "name": "Julien",
+        "surname": "Pascal",
+        "affiliations": [{
+                "institution": "OECD",
+                "share": 1,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 0,
+                "private": 1
+            }]
+    },
+    "Christian_Daude": {
+        "name": "Christian",
+        "surname": "Daude",
+        "affiliations": [{
+                "institution": "Development Bank of Latin America",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Saeed_AlMuharrami": {
+        "name": "Saeed",
+        "surname": "Al-Muharrami",
+        "affiliations": [{
+                "institution": "Sultan Qaboos University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Yusuf_Khabari": {
+        "name": "Yusuf",
+        "surname": "Khabari",
+        "affiliations": [{
+                "institution": "Cardiff University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Pankaj_Sinha": {
+        "name": "Pankaj",
+        "surname": "Sinha",
+        "affiliations": [{
+                "institution": "University of Delhi",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Sakshi_Sharma": {
+        "name": "Sakshi",
+        "surname": "Sharma",
+        "affiliations": [{
+                "institution": "University of Delhi",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Sayan_Ghosh": {
+        "name": "Sayan",
+        "surname": "Ghosh",
+        "affiliations": [{
+                "institution": "University of Delhi",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Habib_Khan": {
+        "name": "Habib Hussain",
+        "surname": "Khan",
+        "affiliations": [{
+                "institution": "University of Malaya",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Ali_Kutan": {
+        "name": "Ali",
+        "surname": "Kutan",
+        "affiliations": [{
+                "institution": "University of Southern Illinois",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Ahmad_Binti": {
+        "name": "Ahmad",
+        "surname": "Rubi Binti",
+        "affiliations": [{
+                "institution": "University of Malaya",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Chan_SokGee": {
+        "name": "Chan",
+        "surname": "Sok-Gee",
+        "affiliations": [{
+                "institution": "University of Malaya",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Steve_Motsi": {
+        "name": "Steve",
+        "surname": "Motsi",
+        "affiliations": [{
+                "institution": "University of Stellenbosch Business School",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Oluseye_Ajuwon": {
+        "name": "Oluseye Samuel",
+        "surname": "Ajuwon",
+        "affiliations": [{
+                "institution": "University of Stellenbosch Business School",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Collins_Ntim": {
+        "name": "Collins",
+        "surname": "Ntim",
+        "affiliations": [{
+                "institution": "University of Southampton Business School",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Iryna_Didenko": {
+        "name": "Iryna",
+        "surname": "Didenko",
+        "affiliations": [{
+                "institution": "Central Bank of Ukraine",
+                "share": 1,
+                "central bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Serhii_Bohma": {
+        "name": "Serhii",
+        "surname": "Bohma",
+        "affiliations": [{
+                "institution": "Central Bank of Ukraine",
+                "share": 1,
+                "central bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Memic_Deni": {
+        "name": "Memic",
+        "surname": "Deni",
+        "affiliations": [{
+                "institution": "University Sarajevo",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Kang_Park": {
+        "name": "Kanf",
+        "surname": "Park",
+        "affiliations": [{
+                "institution": "Southeast Missouri State University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Xiaoqiang_Cheng": {
+        "name": "Xiaoqiang",
+        "surname": "Cheng",
+        "affiliations": [{
+                "institution": " Hong Kong Monetary Authority",
+                "share": 1,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 1,
+                "private": 0
+            }]
+    },
+    "Patrick_Cayseele": {
+        "name": "Patrick",
+        "surname": "Cayseele",
+        "affiliations": [{
+                "institution": "KU Leuven",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Iveta_Repkova": {
+        "name": "Iveta",
+        "surname": "Repkova",
+        "affiliations": [{
+                "institution": "Silesian University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Daniel_Stavarek": {
+        "name": "Daniel",
+        "surname": "Stavarek",
+        "affiliations": [{
+                "institution": "Silesian University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Melanie_Milo": {
+        "name": "Melnie",
+        "surname": "Milo",
+        "affiliations": [{
+                "institution": "Philippine Institute for Development Studies",
+                "share": 1,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 0,
+                "private": 1
+            }]
+    },
+    "Gloria_Pasadilla": {
+        "name": "Gloria",
+        "surname": "Pasadilla",
+        "affiliations": [{
+                "institution": "Philippine Institute for Development Studies",
+                "share": 1,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 0,
+                "private": 1
+            }]
+    },
+    "Witness_Simbanegavi": {
+        "name": "Witness",
+        "surname": "Simbanegavi",
+        "affiliations": [{
+                "institution": "National Treasury of South Africa",
+                "share": 1,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 1,
+                "private": 0
+            }]
+    },
+    "Tendai_Gwatidzo": {
+        "name": "Tendai",
+        "surname": "Gwatidzo",
+        "affiliations": [{
+                "institution": "University of the Witwatersrand",
+                "share": 1,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 0,
+                "private": 1
+            }]
+    },
+    "Josh_Greenberg": {
+        "name": "Josh",
+        "surname": "Greenberg",
+        "affiliations": [{
+                "institution": "Competition Commission South Africa",
+                "share": 1,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 1,
+                "private": 0
+            }]
+    },
+    "Alli_Nathan": {
+        "name": "Alli",
+        "surname": "Nathan",
+        "affiliations": [{
+                "institution": "University of Calgary",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Edwin_Neave": {
+        "name": "Edwin",
+        "surname": "Neave",
+        "affiliations": [{
+                "institution": "Queen's University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Lloyd_Williams": {
+        "name": "Lloyd",
+        "surname": "Williams",
+        "affiliations": [{
+                "institution": "University of Wales",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Phil_Molyneux": {
+        "name": "Phil",
+        "surname": "Molyneux",
+        "affiliations": [{
+                "institution": "University of Wales",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "John_Thornton": {
+        "name": "John",
+        "surname": "Thornton",
+        "affiliations": [{
+                "institution": "International Monetary Fund",
+                "share": 1,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 1,
+                "private": 0
+            }]
+    },
+    "Jukka_Vesala": {
+        "name": "Jukka",
+        "surname": "Vesala",
+        "affiliations": [{
+                "institution": "Bank of Finland",
+                "share": 1,
+                "central bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "George_Hondroyiannis": {
+        "name": "George",
+        "surname": "Hondroyiannis",
+        "affiliations": [{
+                "institution": "Bank of Greece",
+                "share": 0.5,
+                "central bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+            },
+            {
+                "institution": "Harokopio University",
+                "share": 0.5,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+                }]
+    },
+    "Sarantis_Lolos": {
+        "name": "Sarantis",
+        "surname": "Lolos",
+        "affiliations": [{
+                "institution": "Panteion University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Evangelia_Papapetrou": {
+        "name": "Evangelia",
+        "surname": "Papapetrou",
+        "affiliations": [{
+                "institution": "Athens University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Hans_Groeneveld": {
+        "name": "Hans",
+        "surname": "Groeneveld",
+        "affiliations": [{
+                "institution": "de Nederlandsche Bank",
+                "share": 1,
+                "central bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Olivier_Bandt": {
+        "name": "Olivier",
+        "surname": "De Bandt",
+        "affiliations": [{
+                "institution": "Bank of France",
+                "share": 1,
+                "central bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Gaston_Gelos": {
+        "name": "Gaston",
+        "surname": "Gelos",
+        "affiliations": [{
+                "institution": "International Monetary Fund",
+                "share": 1,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 1,
+                "private": 0
+            }]
+    },
+    "Jorge_Roldos": {
+        "name": "Jorge",
+        "surname": "Roldos",
+        "affiliations": [{
+                "institution": "International Monetary Fund",
+                "share": 1,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 1,
+                "private": 0
+            }]
+    },
+    "Katharina_Haaf": {
+        "name": "Katharina",
+        "surname": "Haaf",
+        "affiliations": [{
+                "institution": "de Nederlandsche Bank",
+                "share": 1,
+                "central bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Paolo_Coccorese": {
+        "name": "Paolo",
+        "surname": "Coccorese",
+        "affiliations": [{
+                "institution": "University of Salerno",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Waleed_Murjan": {
+        "name": "Waleed",
+        "surname": "Murjan",
+        "affiliations": [{
+                "institution": "Arab Bank",
+                "share": 1,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 0,
+                "private": 1
+            }]
+    },
+    "Cristina_Ruza": {
+        "name": "Cristina",
+        "surname": "Ruza",
+        "affiliations": [{
+                "institution": "Uned University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Stijn_Claessens": {
+        "name": "Stijn",
+        "surname": "Claessens",
+        "affiliations": [{
+                "institution": "Bank of International Settelments",
+                "share": 0.93,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 1,
+                "private": 0
+            },
+            {
+                "institution": "Centre for Economic Policy Research",
+                "share": 0.03,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 0,
+                "private": 1
+            },
+            {
+                "institution": "Federal Reserve Board",
+                "share": 0.03,
+                "central bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+            }
+        ]
+    },
+    "Luc_Laeven": {
+        "name": "Luc",
+        "surname": "Laeven",
+        "affiliations": [{
+                "institution": "European Central Bank",
+                "share": 1,
+                "central bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Emmanuel_Mamatzakis": {
+        "name": "Emmanuel",
+        "surname": "Mamatzakis",
+        "affiliations": [{
+                "institution": "Athens University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "N_Fillipaki": {
+        "name": "N",
+        "surname": "Koutsomanoli-Fillipaki",
+        "affiliations": [{
+                "institution": "University of Crete",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Christos_Staikouras": {
+        "name": "Christos",
+        "surname": "Staikouras",
+        "affiliations": [{
+                "institution": "Athens University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Konstantinos_Drakos": {
+        "name": "Konstantinos",
+        "surname": "Drakos",
+        "affiliations": [{
+                "institution": "University of Patras",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Panagiotis_Konstantinou": {
+        "name": "Panagiotis",
+        "surname": "Konstantinou",
+        "affiliations": [{
+                "institution": "University of Macedonia",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Barbara_Casu": {
+        "name": "Barbara",
+        "surname": "Casu",
+        "affiliations": [{
+                "institution": "University of Wales",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Claudia_Girardone": {
+        "name": "Claudia",
+        "surname": "Girardone",
+        "affiliations": [{
+                "institution": "University of Essex",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Burak_Gunalp": {
+        "name": "Burak",
+        "surname": "Gunalp",
+        "affiliations": [{
+                "institution": "Hacettepe University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Tuncay_Celik": {
+        "name": "Tuncay",
+        "surname": "Celik",
+        "affiliations": [{
+                "institution": "Hacettepe University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Anastasia_Fillipaki": {
+        "name": "Anastasia",
+        "surname": "Koutsomanoli-Fillipaki",
+        "affiliations": [{
+                "institution": "Bank of Grece",
+                "share": 0.5,
+                "central bank": 1,
+                "university": 0,
+                "governmental": 0,
+                "private": 0
+            },
+            {
+                "institution": "Athens University",
+                "share": 0.5,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Victor_Murinde": {
+        "name": "Victor",
+        "surname": "Murinde",
+        "affiliations": [{
+                "institution": "University of Birmingham",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Tianshu_Zhao": {
+        "name": "Tianshu",
+        "surname": "Zhao",
+        "affiliations": [{
+                "institution": "University of Stirling",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Semih_Yildirim": {
+        "name": "Semih",
+        "surname": "Yildirim",
+        "affiliations": [{
+                "institution": "York University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "George_Philippatos": {
+        "name": "George",
+        "surname": "Philippatos",
+        "affiliations": [{
+                "institution": "University of Tennessee",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Panagiotis_Varlagas": {
+        "name": "Panagiotis",
+        "surname": "Varlagas",
+        "affiliations": [{
+                "institution": "Athens University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Min_Lee": {
+        "name": "Min Hwan",
+        "surname": "Lee",
+        "affiliations": [{
+                "institution": "Korean Insurance Research Institute",
+                "share": 1,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 0,
+                "private": 1
+            }]
+    },
+    "Mamoru_Nagano": {
+        "name": "Mamoru",
+        "surname": "Nagano",
+        "affiliations": [{
+                "institution": "Nagoya City University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Horst_Gischer": {
+        "name": "Horst",
+        "surname": "Gischer",
+        "affiliations": [{
+                "institution": "Otto-von-Guericke-University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Mike_Stiele": {
+        "name": "Mike",
+        "surname": "Stiele",
+        "affiliations": [{
+                "institution": "Otto-von-Guericke-University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "John_Goddard": {
+        "name": "John",
+        "surname": "Goddard",
+        "affiliations": [{
+                "institution": "Bangor Universit",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "John_Wilson": {
+        "name": "John",
+        "surname": "Wilson",
+        "affiliations": [{
+                "institution": "University of St.Andrews",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Klaus_Schaeck": {
+        "name": "Klaus",
+        "surname": "Schaeck",
+        "affiliations": [{
+                "institution": "University of Wales",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Martin_Cihak": {
+        "name": "Martin",
+        "surname": "Cihak",
+        "affiliations": [{
+                "institution": "International Monetary Fund",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Simon_Wolfe": {
+        "name": "Simon",
+        "surname": "Wolfe",
+        "affiliations": [{
+                "institution": "University of Southampton",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Santiago_Carbo": {
+        "name": "Santiago",
+        "surname": "Carbo",
+        "affiliations": [{
+                "institution": "Universidad de Granada",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "David_Humphrey": {
+        "name": "David",
+        "surname": "Humphrey",
+        "affiliations": [{
+                "institution": "Florida State University",
+                "share": 1,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    },
+    "Joaquin_Maudos": {
+        "name": "Joaquin",
+        "surname": "Maudos",
+        "affiliations": [{
+                "institution": "Valencian Institute of Economic Research",
+                "share": 0.5,
+                "central bank": 0,
+                "university": 0,
+                "governmental": 0,
+                "private": 1
+            },
+            {
+                "institution": "University of Valencia",
+                "share": 0.5,
+                "central bank": 0,
+                "university": 1,
+                "governmental": 0,
+                "private": 0
+            }]
+    }
 }
