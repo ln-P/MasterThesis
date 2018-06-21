@@ -13,7 +13,7 @@ from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 
 
-def text2pdf(self, path, password="", maxpages=0):
+def text2pdf(path, password="", maxpages=0):
     rsrcmgr = PDFResourceManager()
     retstr = StringIO()
     codec = 'utf-8'
