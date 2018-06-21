@@ -5,48 +5,49 @@ import sys
 sys.path.append('../..')
 sys.path.append('..')
 
-from read_pdf import PDF2Text as p2t
 
-# Loading a file
-test = p2t.convert_pdf_to_txt('/Users/Wiktor/Dropbox/Git/MasterThesis/Literature/Competition_Studies_Database/p001.pdf')
+def remove_references(string):
+    """
+    Function removes reference from the input text
+    """
+    text = string
+
+    # Convert capital letters to lower
+    text_low = text.lower()
+
+    # Match 'references' starting from the end of the text
+    idx = text_low.rfind('references')
+
+    # Catching no references texts
+    if (idx == -1):
+        return text
+    else:
+        return text[:idx]
 
 
-class CleanText(object):
+def remove_numeric(string):
 
-    def init(self, text):
-        self.text = text
+    text = string
 
-    def remove_references(self):
-        """
-        Function removes reference from the input text
-        """
-        text = self.text
+    # Remove numbers
+    clean_text = re.sub('1|2|3|4|5|6|7|8|9|0', ' ', text)
 
-        # Convert capital letters to lower
-        text_low = text.lower()
+    return clean_text
 
-        # Match 'references' starting from the end of the text
-        idx = text_low.rfind('references')
 
-        # Catching no references texts
-        if (idx == -1):
-            return text
-        else:
-            return text[:idx]
+def remove_strange(string):
+    text = string
 
-    def remove_numeric(self):
+    # Remove strange characters
+    clean_text = re.sub('.|/|,|!|@|#|$|%|^|*|~|?|[|]|"|}|{||;|:|§|£|+|=|&', '', text)
 
-        text = self.text
+    return clean_text
 
-        # Remove numbers
-        clean_text = re.sub('1|2|3|4|5|6|7|8|9|0', '', text)
 
-        return clean_text
+def clean_string(string):
+    text = string
 
-    def remove_strange(self):
-        text = self.text
+    ftext = remove_numeric(text)
+    #ftext = remove_strange(ftext)
 
-        # Remove strange characters
-        clean_text = re.sub('.|/|,|!|@|#|$|%|^|*|~|?|[|]|"|}|{||;|:|§|£|+|=', '', text)
-
-        return clean_text
+    return ftext
