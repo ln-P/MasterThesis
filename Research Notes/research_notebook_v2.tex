@@ -1,0 +1,88 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=2cm]{geometry}
+\usepackage{xcolor}
+
+% Seting up notes
+\usepackage[draft]{todonotes}
+\presetkeys{todonotes}{color=blue!30}{}
+
+% Removing Abstract name
+\renewcommand{\abstractname}{\vspace{-\baselineskip}}
+
+% Paragraphs have no indent, but a line skip instead
+\usepackage[parfill]{parskip}
+
+\title{\vspace{-2.5cm} \textbf{Research Project Notebook}}
+\author{Wiktor Owczarz}
+\begin{document}
+
+\maketitle
+
+\section{Problem Statement}
+
+\subsection*{Rationale}
+
+\textbf{\textit{Hypothesis:}} central bank researchers face higher \textbf{reputation risk}, compared to university researchers, when publishing banking competition studies. Economists employed by central banks are placed
+under \textbf{higher public scrutiny}, hence their publications can have stronger \textbf{signalling effect}.\\
+
+\textbf{\textit{As a result:}} central bank researchers are more prone to making \textbf{Type II Error} (failing to reject false null hypothesis). The cost of making \textbf{Type I Error} is high and might lead to financial instability.\\
+
+\todo[inline, color=red!30]{Define reputation/signalling in context of economic theory}
+\todo[inline, color=red!30]{Define role of a central bank (supervisor/regulator) + literature}
+
+
+\subsection*{Objectives}
+\textbf{\textit{Main Goal:}} Quantify if there are significant, measurable differences between banking competition papers published by the two groups of researchers. \\
+
+\textbf{\textit{Thesis Purpose:}} Create \textbf{methodology} that can be applied to analyse and measure the differences in  competition papers.\\
+\todo[inline, color=red!30]{Short: write methodology paper, define \textbf{heterogenity} and to measure it in a robust way}
+
+\newline \noindent
+\textbf{Possible \textit{"sources"} of heterogeneity:}
+\begin{enumerate}
+    \item \textbf{Meta Study:} When looking at the same market, using the same \textit{(similar?)} methodology two groups get either contrary or close but \textbf{different} (insignificant, smaller confidence, higher variability) outcomes.
+    \item \textbf{Text Analysis:} Looking at the two groups we find significant \textbf{differences in analysed texts}. As a result, we would be able to classify papers to either group based on the text structure.
+        \begin{enumerate}
+            \item Apply Latent Semantic Analysis to find \textbf{proximity} between different papers based on \textbf{bag of words approach}.
+             \item
+             \item
+        \end{enumerate}
+\end{enumerate}
+
+\newpage
+
+\section{Methodology}
+
+Objective is to \textbf{create number of tools} that will allow us to analyse and compare competition texts and quantify if any differences. \\
+\begin{enumerate}
+    \item \textbf{Initial Analysis}
+        \begin{enumerate}
+            \item Create corpus from the collected articles
+            \item Transform data into text vectors
+            \item Use tf-idf to weight the words
+            \item Use SVDTruncated to reduce dimensions
+            \item Run simple KMeans
+        \end{enumerate}
+        \todo[inline]{Very simplistic approach and does not fully capture the propose of the task}
+
+    \item \textbf{Features engineering:}
+        \begin{enumerate}
+            \item word density: avg. length of words
+            \item punctuation cound
+            \item part of speech distributions
+            \item lexical diversity
+            \item \textbf{Uncertainty measure}: \% share of the words that introduce ambiguity in the text
+        \end{enumerate}
+         \todo[inline]{Features add further complexity but ignore the data, calculations}
+
+\end{enumerate}
+\newpage
+
+\section*{References: (work-in-progress)}
+
+\begin{enumerate}
+    \item Stanley et. al. \textit{Meta-analysis of economics research reporting guidelines}
+    \item A. P. Field, R. Gillett \textit{How to do a meta-analysis}, British Journal of Mathematical and Statistical Psychology
+\end{enumerate}
+\end{document}
