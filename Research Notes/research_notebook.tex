@@ -1,6 +1,6 @@
 \documentclass{article}
 \usepackage[utf8]{inputenc}
-\usepackage[margin=2.5cm]{geometry}
+\usepackage[margin=2cm]{geometry}
 \usepackage{xcolor}
 
 % Seting up notes
@@ -19,128 +19,95 @@
 
 \maketitle
 
-\begin{minipage}{0.8\textwidth}
-\begin{abstract}
-   The following document is an outline and notebook concerning a review study that aims to quantify between group differences in competition studies written by two groups of economists: Central Bank  vs. University.
-\end{abstract}
-\end{minipage}
-
 \section{Problem Statement}
 
 \subsection*{Rationale}
-\todo[inline]{Describe the rationale for the review in the context of what is already known. (literature review + hypothesis)}
 
-\textbf{\textit{Hypothesis:}} Central Bank Researchers face higher \textbf{reputation risk}, compared to university researchers, when publishing banking compatition studies. Economists employed by central banks are placed under \textbf{higher public scrutiny}, hence their publications can have stronger \textbf{signalling effect}.\\
+\textbf{\textit{Hypothesis:}} central bank researchers face higher \textbf{reputation risk}, compared to university researchers, when publishing banking competition studies. Economists employed by central banks are placed
+under \textbf{higher public scrutiny}, hence their publications can have stronger \textbf{signalling effect}.\\
+
+\textbf{\textit{As a result:}} central bank researchers are more prone to making \textbf{Type II Error} (failing to reject false null hypothesis). The cost of making \textbf{Type I Error} is high and might lead to financial instability.\\
 
 \todo[inline, color=red!30]{Define reputation/signalling in context of economic theory}
+\todo[inline, color=red!30]{Define role of a central bank (supervisor/regulator) + literature}
 
-\subsection*{Objective}
-\todo[inline]{What we do and how to do it correctly}
-\textbf{\textit{Goal:}} We aim to quantify if there are significant, measurable differences between banking competition papers published by two groups of researchers. \\
 
-\newline \noindent
+\subsection*{Objectives}
+\textbf{\textit{Main Goal:}} Quantify if there are significant, measurable differences between banking competition papers published by the two groups of researchers. \\
+
+\textbf{\textit{Thesis Purpose:}} Create \textbf{methodology} that can be applied to analyse and measure the differences in  competition papers.\\
+\todo[inline, color=red!30]{Short: write methodology paper, define \textbf{heterogenity} and to measure it in a robust way}
+
 \textbf{Possible \textit{"sources"} of heterogeneity:}
 \begin{enumerate}
-    \item \textbf{Meta Study:} When looking at the same market, using the same \textit{(similar?)} methodology two groups get either contrary or close but \textbf{different} (insignificant, smaller confidence, higher variability) outcomes.
-    \item \textbf{Semantic Analysis:} Looking at the two groups we find significant semantic differences. As a result, we would be able to classify paper to either group based on the words they use.
+ \item \textbf{Publication Bias:} Apply publication bias methodology but in reverse, check if CB papers have larger confidence levels, are they minimising risk of Type I error by further decreasing $\alpha$
+    \item \textbf{Text Analysis:} Looking at the two groups we find significant \textbf{differences in analysed texts}. As a result, we would be able to classify papers to either group based on the text structure.
         \begin{enumerate}
-            \item First idea: Latent Semantic Analysis to find \textbf{proximity} between different papers.
-             \item If an \textit{algorithm} would be able to easly distinguish between two groups, then
+            \item Apply Latent Semantic Analysis to find \textbf{proximity} between different papers based on \textbf{bag of words approach}.
+             \item
+             \item
         \end{enumerate}
 \end{enumerate}
-
-\todo[inline, color=red!30]{Goal is to define \textbf{heterogenity} and to measure it in a robust way}
 
 \newpage
 
 \section{Methodology}
 
-\subsection{Meta-Study:}
-Generally accepted structure required for the meta-study:
-
-\subsubsection{Save study protocol \textit{before} actual study}
-
-The \textit{before} protocol \textbf{has to include}:
-\begin{itemize}
-    \item Problem statement
-    \item Literature search strategy
-
-        \begin{itemize}
-            \item Which databases
-            \item Key words/definition of the search strategy
-            \item Publication restrictions (e.g. language)
-        \end{itemize}
-
-    \item Exclusion/inclusion criteria. Decide which of the collected papers to include/exclude.
-
-        \begin{itemize}
-            \item Clear distinction between central bank and who university economist.
-            \todo[inline]{After the selection process is done create PRISMA Flow diagram to summarise the articles exclusion/inclusion process.}
-        \end{itemize}
-
-\end{itemize}
-
-\subsubsection{Calculate the size effects}
-\textbf{Def.} Effect size is usually a standardised measure of the magnitude of observed effect (Clark-Carter, 2003; Field, 2005c).
-
-\subsubsection{Do the basic meta-analysis}
-Estimate effects in the population by combining
-the effect sizes from a variety of articles. The estimate is a weighted mean of the effect sizes. \\
-
-\todo[inline]{Here ideal outcome would be to find clear \textbf{heterogeneity} in the effect sizes between two groups.}
-
-
-
-\subsection{Language Processing / Semantic Analysis}
-The initial idea is to run Latent Semantic Analysis and by looking at word frequency in each document try to classify papers based on their comparability/similarity between each other.
-
-
-
-\section{Notes:}
-
-\begin{itemize}
-    \item Affiliation based on: https://ideas.repec.org
-        \begin{itemize}
-            \item How to categorize researchers that have both affiliations? 50\% or more?
-            \item How to categorize papers that have more than one author and therefore \textbf{multiple affiliations}
-        \end{itemize}
-    \item Collect all papers from IDEAS REPEC that use Panzar-Rosse as a \textbf{keyword}
-        \begin{itemize}
-            \item Currently done page 2
-        \end{itemize}
-\end{itemize}
-
-
-\section{Problems}
-
-\subsection*{The Effect size}
-
-According to Stanley et al. in \textit{“Reporting Guidelines for Meta-Regression Analyses in Economics”}, in order to conduct successful meta-study:
-\begin{itemize}
-    \item A precise definition of how effects are measured (the ‘effect size’), accompanied by any relevant formulas.
-    \item An explicit description about how measured effects are comparable, including any methods used to standardise or convert them to a common metric.
-\end{itemize}
-
-\newline \noindent
-As I already pointed out we face significant difficulty when it comes to the second point. Also we cannot just look at the sign and/or significance since the main purpose of the meta-study is to aggregate multiple papers to average out the bias that might come from single study and therefore find the \textit{"true" outcome}.   \\
-
-\newline \noindent
-However, maybe we could use \textbf{Cohen’s d}: $\frac{\mu_1 - \mu_2}{\sigma}$, where two means would be papers classified to central bank or university and the variance can be a pooled estimate based on both groups individual size and variances (for me it looks very similar to pooled t-static for unequal variances). We would have to do the comparison for individual models separately. \\
-
-\newline \noindent
-Although, just looking at Panzar-Rosse I can see problem since different papers use \textbf{different estimation methods}:
+Objective is to \textbf{create number of tools} that will allow us to analyse and compare competition texts and quantify if any differences. \\
 \begin{enumerate}
-    \item Revenue equation: $log(TR)$ with $log(TA)$ as a control variable
-    \item $log(TR/TA)$  without $log(TA)$ as a control variable
-    \item Price equation: $log(TR/TA)$ with $log(TA)$ as a control variable
-\end{enumerate}
+    \item \textbf{Initial Analysis}
+        \begin{enumerate}
+            \item Create corpus from the collected articles
+            \item Transform data into text vectors
+            \item Use tf-idf to weight the words
+            \item Use SVDTruncated to reduce dimensions
+            \item Run simple KMeans
+        \end{enumerate}
+        \todo[inline]{Very simplistic approach and does not fully capture the propose of the task}
+        \todo[inline]{Rui: focus on understanding the text, clean stop words (not only 'the') but also remember the context. Visualize the data, herarchical clustering}
 
+    \item \textbf{Features engineering:}
+        \begin{enumerate}
+            \item word density: avg. length of words
+            \item punctuation cound
+            \item part of speech distributions
+            \item lexical diversity
+            \item \textbf{Uncertainty measure}: \% share of the words that introduce ambiguity in the text
+        \end{enumerate}
+         \todo[inline]{Features add further complexity but ignore the data, calculations}
+
+    \item \textbf{Ambivalent significance:}
+
+        \begin{enumerate}
+            \item We cannot reject vs we accept nul hypothesis (\textit{strength of the phrase})
+            \item What are the confidence levels used 1\%, 5\% or 10\%?
+            \item Limitations of p-value, look at t-stat distributions
+            \item In general \textbf{publication bias analysis} (Harvey 2017)
+        \end{enumerate}
+        \todo[inline]{This is second part of the methodology, focus on differences in t-stats/p-values do we see any differences there?}
+
+\end{enumerate}
 \newpage
 
+\section*{Daily Notes:}
+
+\subsection*{Harvey 2017: \textit{The Scientific Outlook in Financial Economics (05.07.2018)}}
+	\begin{itemize}
+		\item Points to out the problem with too high reliance on p-values and t-statistics, which are poorly understood
+		\item P-hacking: cherry picking the most significant results. \textbf{This should not be an issue since design is the same across papers, same model and data is fully accessible}
+		\item \textbf{T-ratio/P-value distributions} if not uniform (skewed to right) show that there is actually bias.
+		 \todo[inline]{Use p-value distributions to visualise problem}
+		 \item Harvey: ``complexity stems from the challenge in interpreting results when the human researcher interacts with the results''  == results interpretation in crucial in social science (soft science)
+		 \item published articles find ``support'' for the idea being tested because: priori beliefs, narrow hypothesis, confirmation bias, manipulation of the data (
+	\end{itemize}
+We are interested in the \textbf{``opposite'' of the publication bias} since we want to see if the results of the central bankers fail to reject the null more often then other researchers. 
 \section*{References: (work-in-progress)}
+
+Research structure: 
 
 \begin{enumerate}
     \item Stanley et. al. \textit{Meta-analysis of economics research reporting guidelines}
     \item A. P. Field, R. Gillett \textit{How to do a meta-analysis}, British Journal of Mathematical and Statistical Psychology
+    \item C. R. Harvey, \textit{Presidential Address: The Scientific Outlook in Financial Economics}
 \end{enumerate}
 \end{document}
