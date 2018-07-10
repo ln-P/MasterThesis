@@ -15,7 +15,6 @@ Created on: Tue May 5 23:02:40 CEST 2018
 
 import pandas as pd
 import json
-from pprint import pprint
 import os
 import sys
 
@@ -35,7 +34,8 @@ with open(os.path.join(authors_path)) as file:
 
 def get_author_institution(json_authors):
     """
-    Function that reads in the database .json file and returns flat pd.DataFrame with author and her/his institutions
+    Function that reads in the database .json file and returns flat pd.DataFrame
+    with author and her/his institutions
     """
 
     # Load authors and list of their affiliations as DataFrame
