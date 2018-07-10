@@ -34,11 +34,14 @@ def remove_numeric(string):
     return clean_text
 
 
-def remove_strange(string):
+def remove_non_alphanum(string):
+    """
+    Function strips string from non-alphanumeric characters
+    """
     text = string
 
     # Remove strange characters
-    clean_text = re.sub('.|/|,|!|@|#|$|%|^|*|~|?|[|]|"|}|{||;|:|§|£|+|=|&', '', text)
+    clean_text = re.sub('/|,|!|@|#|$|%|^|*|~|?|[|]|"|}|{||;|:|§|£|+|=|&', '', text)
 
     return clean_text
 
