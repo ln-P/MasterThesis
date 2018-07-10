@@ -14,6 +14,9 @@ from pdfminer.pdfpage import PDFPage
 
 
 def pdf2text(path, password="", maxpages=0):
+    """
+    Function takes .pdf file location path and returns string object
+    """
     rsrcmgr = PDFResourceManager()
     retstr = StringIO()
     codec = 'utf-8'
