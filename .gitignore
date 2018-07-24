@@ -25,3 +25,6 @@
 
 *Updates
 **/Updates
+
+*.DS_Store
+**/.DS_Store
