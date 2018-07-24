@@ -158,27 +158,6 @@
             }
         ]
     },
-    "Munacinga_Simatele": {
-        "name": "Munacinga",
-        "surname": "Simatele",
-        "affiliations": [{
-                "institution": "University of Hertfordshire",
-                "share": 0.5,
-                "central bank": 0,
-                "university": 1,
-                "governmental": 0,
-                "private": 0
-            },
-            {
-                "institution": "University of the Witwatersrand",
-                "share": 0.5,
-                "central bank": 0,
-                "university": 1,
-                "governmental": 0,
-                "private": 0
-            }
-        ]
-    },
     "Suzana_Andrade": {
         "name": "Suzana",
         "surname": "Andrade",
@@ -1124,18 +1103,6 @@
                 "private": 0
             }]
     },
-    "Jukka_Vesala": {
-        "name": "Jukka",
-        "surname": "Vesala",
-        "affiliations": [{
-                "institution": "Bank of Finland",
-                "share": 1,
-                "central bank": 1,
-                "university": 0,
-                "governmental": 0,
-                "private": 0
-            }]
-    },
     "George_Hondroyiannis": {
         "name": "George",
         "surname": "Hondroyiannis",
@@ -1225,18 +1192,6 @@
                 "central bank": 0,
                 "university": 0,
                 "governmental": 1,
-                "private": 0
-            }]
-    },
-    "Katharina_Haaf": {
-        "name": "Katharina",
-        "surname": "Haaf",
-        "affiliations": [{
-                "institution": "de Nederlandsche Bank",
-                "share": 1,
-                "central bank": 1,
-                "university": 0,
-                "governmental": 0,
                 "private": 0
             }]
     },

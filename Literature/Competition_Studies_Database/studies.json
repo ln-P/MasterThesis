@@ -103,21 +103,6 @@
         "File URL": "http://www.asecu.gr/Seeje/issue11/GIUSTINIANI_ROSS.pdf",
         "Ideas URL": "https://ideas.repec.org/a/seb/journl/v6y2008i2p145-167.html"
     },
-    "p006": {
-        "title": "Market Structure and competition in the South African banking sector",
-        "authors": [{
-				"name": "Munacinga",
-				"surname": "Simatele",
-				"index": "Munacinga_Simatele"
-			}
-		],
-        "publication_date": 2015,
-        "start period": 1997,
-        "end period": 2014,
-        "region": ["South Africa"],
-        "File URL": "http://iises.net/proceedings/4th-economics-finance-conference-london/table-of-content/detail?cid=22&iid=051&rid=4816",
-        "Ideas URL": "https://ideas.repec.org/p/sek/iefpro/2204816.html"
-    },
     "p007": {
         "title": "Assessing Competition With the Panzar-Rosse Model: An empirical analysis of European Union banking industry",
         "authors": [{
@@ -966,21 +951,6 @@
         "File URL": "",
         "Ideas URL": ""
     },
-    "p050": {
-        "title": "Testing for Competition in Banking: Behavioural Evidence from Finland",
-        "authors": [{
-                "name": "Jukka",
-                "surname": "Vesala",
-                "index": "Jukka_Vesala"
-            }
-            ],
-        "publication_date": 1995,
-        "start period": 1985,
-        "end period": 1992,
-        "region": ["Finland"],
-        "File URL": "",
-        "Ideas URL": ""
-    },
     "p051": {
         "title": "Competition and Market Contestability in Japanese Commercial Banking",
         "authors": [{
@@ -1091,26 +1061,6 @@
         "File URL": "",
         "Ideas URL": ""
     },
-    "p056": {
-        "title": "Competition, concentration and their relationship: An empirical analysis of the banking industry",
-        "authors": [{
-                "name": "Jacob Antoon",
-                "surname": "Bikker",
-                "index": "Jacob_Bikker"
-            },
-            {
-                "name": "Katharina",
-                "surname": "Haaf",
-                "index": "Katharina_Haaf"
-            }
-            ],
-        "publication_date": 2002,
-        "start period": 1988,
-        "end period": 1998,
-        "region": ["OECD"],
-        "File URL": "",
-        "Ideas URL": ""
-    },
     "p057": {
         "title": "Banking competition and macroeconomic conditions: a disaggregate analysis",
         "authors": [{
@@ -1163,21 +1113,6 @@
         "start period": 1994,
         "end period": 2001,
         "region": ["50 countries"],
-        "File URL": "",
-        "Ideas URL": ""
-    },
-    "p060": {
-        "title": "What Drives Bank Competition? Some International Evidence",
-        "authors": [{
-                "name": "Sherrill",
-                "surname": "Shaffer",
-                "index": "Sherill_Shaffer"
-                }
-            ],
-        "publication_date": 2004,
-        "start period": 1984,
-        "end period": 1994,
-        "region": ["USA"],
         "File URL": "",
         "Ideas URL": ""
     },
