@@ -114,7 +114,7 @@
         "publication_date": 2017,
         "start period": 2004,
         "end period": 2011,
-        "region": ["European Union"],
+        "region": ["Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden"],
         "File URL": "http://www.gee.gov.pt/RePEc/WorkingPapers/GEE_PAPERS_82.pdf",
         "Ideas URL": "https://ideas.repec.org/p/mde/wpaper/0082.html"
     },
@@ -204,7 +204,7 @@
         "publication_date": 2016,
         "start period": 1996,
         "end period": 2011,
-        "region": ["EU27"],
+        "region": ["Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden"],
         "File URL": "http://www.sciencedirect.com/science/article/pii/S0969593115300123",
         "Ideas URL": "https://ideas.repec.org/a/eee/iburev/v25y2016i1p395-407.html"
     },
@@ -436,7 +436,7 @@
 		"publication_date": 2008,
 		"start period": 1986,
 		"end period": 2004,
-		"region": ["Western Economies"],
+		"region": ["101 countries"],
 		"File URL": "",
 		"Ideas URL": "https://ideas.repec.org/p/dnb/dnbwpp/167.html"
 
@@ -554,7 +554,7 @@
         "authors": [{
                 "name": "Malgorzata",
                 "surname": "Pawlowska",
-                "index": " Malgorzata_Pawlowska"
+                "index": "Malgorzata_Pawlowska"
             }
             ],
         "publication_date": 2011,
@@ -581,7 +581,7 @@
         "publication_date": 2014,
         "start period": 1998,
         "end period": 2012,
-        "region": ["EU27"],
+        "region": ["Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden"],
         "File URL": "",
         "Ideas URL": "https://ideas.repec.org/p/nsr/niesrd/421.html"
 
@@ -664,7 +664,7 @@
         "authors": [{
                 "name": "Malgorzata",
                 "surname": "Pawlowska",
-                "index": " Malgorzata_Pawlowska"
+                "index": "Malgorzata_Pawlowska"
             }
             ],
         "publication_date": 2012,
@@ -680,7 +680,7 @@
         "authors": [{
                 "name": "Malgorzata",
                 "surname": "Pawlowska",
-                "index": " Malgorzata_Pawlowska"
+                "index": "Malgorzata_Pawlowska"
             }
             ],
         "publication_date": 2005,
@@ -702,8 +702,7 @@
         "publication_date": 2015,
         "start period": 2000,
         "end period": 2012,
-        "region": ["Bangladesh", "Brazil", "Bulgaria", "Chile", "Equador", "Hong Kong", "India", "Indonesia", "Korea", "Malaysia", "Pakistan", "Panama",
-"Philippines", "Russia", "Singapore", "Sri Lanka", "Taiwan", "Thailand", "Turkey", "Ukraine", "Venezuela"],
+        "region": ["Bangladesh", "Brazil", "Bulgaria", "Chile", "Equador", "Hong Kong", "India", "Indonesia", "Korea", "Malaysia", "Pakistan", "Panama", "Philippines", "Russia", "Singapore", "Sri Lanka", "Taiwan", "Thailand", "Turkey", "Ukraine", "Venezuela"],
         "File URL": "",
         "Ideas URL": "https://ideas.repec.org/a/eee/ememar/v25y2015icp154-162.html"
 
