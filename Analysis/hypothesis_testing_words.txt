@@ -1,0 +1,21 @@
+# Hypothesis testing words
+fail to reject
+reject null
+reject
+hypothesis
+null hypothesis
+alternative hypothesis
+alternative
+significant
+significantly
+significance level
+confidence level
+confidence interval
+confidence intervals
+lower bound
+upper bound
+pvalue
+p-value
+type i error
+type ii error
+error
