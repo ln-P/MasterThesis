@@ -21,7 +21,6 @@ Current dataset consists of 69 economic articles, of which:
 ### Competition models covered:
 - `Panzar-Rosse:` H-static
 
-### Intermediate Results:
 
 ### Reported statistics analysis
 
