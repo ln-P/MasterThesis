@@ -40,4 +40,4 @@ Current dataset consists of 69 economic articles, of which:
 
 #### `Heatmap` using cosine similarity on tfidf vector pairs
 
-![Cosine similarity](/Analysis/Graphs/heatmap.png)
+![Cosine similarity](/Analysis/Graphs/heatmap_similarity.png)
