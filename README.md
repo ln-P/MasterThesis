@@ -23,6 +23,15 @@ Current dataset consists of 69 economic articles, of which:
 
 ### Intermediate Results:
 
+### Reported statistics analysis
+
+#### Statistics distributions
+
+![P-values distribution](/Analysis/Graphs/dist_pvalue.png)
+![T-statistics distribution](/Analysis/Graphs/dist_tstat.png)
+
+#### H-statistics overview
+![H-statistics box](/Analysis/Graphs/box_hstat.png)
 
 #### `K-means` on LSA components
 - ∇ correspond to central bank paper
@@ -33,13 +42,3 @@ Current dataset consists of 69 economic articles, of which:
 #### `Heatmap` using cosine similarity on tfidf vector pairs
 
 ![Cosine similarity](/Analysis/Graphs/heatmap.png)
-
-### Reported statistics analysis
-
-#### Statistics distributions
-
-![P-values distribution](/Analysis/Graphs/dist_pvalue.png)
-![T-statistics distribution](/Analysis/Graphs/dist_tstat.png)
-
-#### H-statistics overview
-![H-statistics distribution](/Analysis/Graphs/dist_hstat.png)
