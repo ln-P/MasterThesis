@@ -11,7 +11,7 @@ Current dataset consists of 69 economic articles, of which:
     - `Cosine similarity`
     - `Hierarchical clustering`
     - Topic models: `Latent Semantic Indexing`
-    - `K-means` clustering on LSA components
+    - `K-means` clustering on LSI components
 
 
 - `Reported statistics analysis`
@@ -25,7 +25,7 @@ Current dataset consists of 69 economic articles, of which:
 
 
 #### `K-means` on LSA components
-- `∇` correspond to central bank paper
+- ∇ correspond to central bank paper
 - Colours show corresponding class
 
 ![Kmeans LSA](/Analysis/Graphs/kmeans_10.png)
@@ -42,3 +42,4 @@ Current dataset consists of 69 economic articles, of which:
 ![T-statistics distribution](/Analysis/Graphs/dist_tstat.png)
 
 #### H-statistics overview
+![H-statistics distribution](/Analysis/Graphs/dist_hstat.png)
