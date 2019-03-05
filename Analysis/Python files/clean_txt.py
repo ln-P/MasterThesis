@@ -1,3 +1,10 @@
+"""
+Collection of the functions used to clean raw text
+
+Author: Wiktor
+Created on: Sun 16 Sep 2018 18:52:59 CEST
+"""
+
 import re
 import sys
 import nltk

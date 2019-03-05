@@ -9,9 +9,10 @@ he/she is affliated to. One author can have multiple entries.
 - get_study_author(): pd.DataFrame with author and study index, that will allow
 to map study to author affiliation from get_author_institution() based on author_index
 
-Created on: Tue May 5 23:02:40 CEST 2018
-@author: Wiktor
+- central_bank_paper_label(): returns list of papers that had one of the authors affiliated with the central bank
 
+Author: Wiktor
+Created on: Tue May 5 23:02:40 CEST 2018
 """
 
 import pandas as pd

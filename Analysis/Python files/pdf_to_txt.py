@@ -1,6 +1,7 @@
 """
 This script loads collected PDFs and saves them in .txt format
 
+Author: Wiktor
 Created on: Do 21. Jun 15:06:21 CEST 2018
 """
 import os

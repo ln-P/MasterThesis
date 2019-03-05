@@ -1,5 +1,8 @@
 """
 Analysis helper functions
+
+Author: Wiktor
+Created on: Sun 16 Sep 2018 18:52:59 CEST
 """
 
 import pandas as pd
@@ -42,6 +45,7 @@ def convert_list(content):
     Arguments:
     - list of vectorized texts (list of lists)
     """
+    # Empty list of to collect strings
     converted_content = []
     for index, str_list in enumerate(content):
         converted_content.append('')

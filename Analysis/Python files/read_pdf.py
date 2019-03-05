@@ -1,9 +1,8 @@
 """
 Function that allows to transform PDF into text string.
 
+Author: Wiktor
 Created on: Sun May 27 18:49:48 CEST 2018
-@author: Wiktor
-
 """
 
 from io import StringIO
